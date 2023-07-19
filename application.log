@@ -1,0 +1,1759 @@
+2023-07-11 01:18:59,521 - root - INFO - calling spark object
+2023-07-11 01:18:59,521 - Create_spark - INFO - get_spark_object method started
+2023-07-11 01:18:59,521 - Create_spark - INFO - master is local
+2023-07-11 01:19:01,332 - Create_spark - INFO - Spark object created.....
+2023-07-11 01:19:01,332 - root - INFO - Validating spark object........
+2023-07-11 01:19:01,332 - Validate - WARNING - started the get_current_date method...
+2023-07-11 01:19:03,213 - Validate - WARNING - Validations done, going forward....
+2023-07-11 01:19:03,213 - root - INFO - Application done
+2023-07-11 01:27:22,554 - root - INFO - calling spark object
+2023-07-11 01:27:22,554 - Create_spark - INFO - get_spark_object method started
+2023-07-11 01:27:22,554 - Create_spark - INFO - master is local
+2023-07-11 01:27:24,352 - Create_spark - INFO - Spark object created.....
+2023-07-11 01:27:24,352 - root - INFO - Validating spark object........
+2023-07-11 01:27:24,352 - Validate - WARNING - started the get_current_date method...
+2023-07-11 01:27:26,246 - Validate - WARNING - Validations done, going forward....
+2023-07-11 01:27:26,246 - root - INFO - Application done
+2023-07-11 01:29:36,227 - root - INFO - calling spark object
+2023-07-11 01:29:36,227 - Create_spark - INFO - get_spark_object method started
+2023-07-11 01:29:36,228 - Create_spark - INFO - master is local
+2023-07-11 01:29:38,032 - Create_spark - INFO - Spark object created.....
+2023-07-11 01:29:38,032 - root - INFO - Validating spark object........
+2023-07-11 01:29:38,032 - Validate - WARNING - started the get_current_date method...
+2023-07-11 01:29:39,934 - Validate - WARNING - Validations done, going forward....
+2023-07-11 01:29:39,934 - root - INFO - Application done
+2023-07-11 01:33:04,064 - root - INFO - calling spark object
+2023-07-11 01:33:04,064 - Create_spark - INFO - get_spark_object method started
+2023-07-11 01:33:04,064 - Create_spark - INFO - master is local
+2023-07-11 01:33:05,867 - Create_spark - INFO - Spark object created.....
+2023-07-11 01:33:05,867 - root - INFO - Validating spark object........
+2023-07-11 01:33:05,867 - Validate - WARNING - started the get_current_date method...
+2023-07-11 01:33:07,760 - Validate - WARNING - Validations done, going forward....
+2023-07-11 01:33:07,760 - root - INFO - Application done
+2023-07-11 01:34:42,921 - root - INFO - calling spark object
+2023-07-11 01:34:42,921 - Create_spark - INFO - get_spark_object method started
+2023-07-11 01:34:42,921 - Create_spark - INFO - master is local
+2023-07-11 01:34:44,700 - Create_spark - INFO - Spark object created.....
+2023-07-11 01:34:44,700 - root - INFO - Validating spark object........
+2023-07-11 01:34:44,700 - Validate - WARNING - started the get_current_date method...
+2023-07-11 01:34:46,570 - Validate - WARNING - Validations done, going forward....
+2023-07-11 01:34:46,571 - root - INFO - Application done
+2023-07-11 16:58:40,058 - root - INFO - calling spark object
+2023-07-11 16:58:40,059 - Create_spark - INFO - get_spark_object method started
+2023-07-11 16:58:40,059 - Create_spark - INFO - master is local
+2023-07-11 16:58:42,286 - Create_spark - INFO - Spark object created.....
+2023-07-11 16:58:42,286 - root - INFO - Validating spark object........
+2023-07-11 16:58:42,286 - Validate - WARNING - started the get_current_date method...
+2023-07-11 16:58:44,393 - Validate - WARNING - Validations done, going forward....
+2023-07-11 16:58:44,393 - root - INFO - reading file which is of > parquet 
+2023-07-11 16:58:44,393 - Ingest - WARNING - load_files method started....
+2023-07-11 17:20:50,511 - root - INFO - calling spark object
+2023-07-11 17:20:50,511 - Create_spark - INFO - get_spark_object method started
+2023-07-11 17:20:50,511 - Create_spark - INFO - master is local
+2023-07-11 17:20:52,303 - Create_spark - INFO - Spark object created.....
+2023-07-11 17:20:52,303 - root - INFO - Validating spark object........
+2023-07-11 17:20:52,303 - Validate - WARNING - started the get_current_date method...
+2023-07-11 17:20:54,170 - Validate - WARNING - Validations done, going forward....
+2023-07-11 17:20:54,170 - root - INFO - reading file which is of > parquet 
+2023-07-11 17:20:54,170 - Ingest - WARNING - load_files method started....
+2023-07-11 17:20:54,552 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-11 17:20:54,552 - root - INFO - Application done
+2023-07-11 17:22:30,243 - root - INFO - calling spark object
+2023-07-11 17:22:30,243 - Create_spark - INFO - get_spark_object method started
+2023-07-11 17:22:30,243 - Create_spark - INFO - master is local
+2023-07-11 17:22:32,059 - Create_spark - INFO - Spark object created.....
+2023-07-11 17:22:32,059 - root - INFO - Validating spark object........
+2023-07-11 17:22:32,059 - Validate - WARNING - started the get_current_date method...
+2023-07-11 17:22:33,951 - Validate - WARNING - Validations done, going forward....
+2023-07-11 17:22:33,951 - root - INFO - reading file which is of > parquet 
+2023-07-11 17:22:33,951 - Ingest - WARNING - load_files method started....
+2023-07-11 17:22:34,290 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-11 17:22:34,290 - root - INFO - Application done
+2023-07-11 17:28:23,763 - root - INFO - calling spark object
+2023-07-11 17:28:23,763 - Create_spark - INFO - get_spark_object method started
+2023-07-11 17:28:23,763 - Create_spark - INFO - master is local
+2023-07-11 17:28:25,572 - Create_spark - INFO - Spark object created.....
+2023-07-11 17:28:25,572 - root - INFO - Validating spark object........
+2023-07-11 17:28:25,572 - Validate - WARNING - started the get_current_date method...
+2023-07-11 17:28:27,427 - Validate - WARNING - Validations done, going forward....
+2023-07-11 17:28:27,427 - root - INFO - reading file which is of > parquet 
+2023-07-11 17:28:27,427 - Ingest - WARNING - load_files method started....
+2023-07-11 17:28:27,765 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-11 17:28:27,768 - root - INFO - displaying the dataframe DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string]
+2023-07-11 17:28:28,244 - root - INFO - Application done
+2023-07-11 17:36:50,250 - root - INFO - calling spark object
+2023-07-11 17:36:50,250 - Create_spark - INFO - get_spark_object method started
+2023-07-11 17:36:50,250 - Create_spark - INFO - master is local
+2023-07-11 17:36:52,109 - Create_spark - INFO - Spark object created.....
+2023-07-11 17:36:52,109 - root - INFO - Validating spark object........
+2023-07-11 17:36:52,109 - Validate - WARNING - started the get_current_date method...
+2023-07-11 17:36:54,054 - Validate - WARNING - Validations done, going forward....
+2023-07-11 17:36:54,054 - root - INFO - reading file which is of > parquet 
+2023-07-11 17:36:54,054 - Ingest - WARNING - load_files method started....
+2023-07-11 17:36:54,405 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-11 17:36:54,849 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-11 17:36:54,849 - root - INFO - validating the dataframe
+2023-07-11 17:36:54,849 - Ingest - WARNING - here to count the records in the df_Ctiy
+2023-07-11 17:36:55,145 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-11 17:36:55,145 - root - INFO - Application done
+2023-07-11 17:42:19,149 - root - INFO - calling spark object
+2023-07-11 17:42:19,150 - Create_spark - INFO - get_spark_object method started
+2023-07-11 17:42:19,150 - Create_spark - INFO - master is local
+2023-07-11 17:42:20,998 - Create_spark - INFO - Spark object created.....
+2023-07-11 17:42:20,998 - root - INFO - Validating spark object........
+2023-07-11 17:42:20,998 - Validate - WARNING - started the get_current_date method...
+2023-07-11 17:42:22,949 - Validate - WARNING - Validations done, going forward....
+2023-07-11 17:42:22,949 - root - INFO - reading file which is of > parquet 
+2023-07-11 17:42:22,949 - Ingest - WARNING - load_files method started....
+2023-07-11 17:42:23,298 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-11 17:42:23,746 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-11 17:42:23,746 - root - INFO - validating the dataframe
+2023-07-11 17:42:23,746 - Ingest - WARNING - here to count the records in the df_City
+2023-07-11 17:42:24,033 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-11 17:42:24,033 - root - INFO - reading file which is of > csv 
+2023-07-11 17:42:24,033 - Ingest - WARNING - load_files method started....
+2023-07-11 17:45:07,867 - root - INFO - calling spark object
+2023-07-11 17:45:07,867 - Create_spark - INFO - get_spark_object method started
+2023-07-11 17:45:07,867 - Create_spark - INFO - master is local
+2023-07-11 17:45:09,715 - Create_spark - INFO - Spark object created.....
+2023-07-11 17:45:09,715 - root - INFO - Validating spark object........
+2023-07-11 17:45:09,715 - Validate - WARNING - started the get_current_date method...
+2023-07-11 17:45:11,612 - Validate - WARNING - Validations done, going forward....
+2023-07-11 17:45:11,612 - root - INFO - reading file which is of > parquet 
+2023-07-11 17:45:11,612 - Ingest - WARNING - load_files method started....
+2023-07-11 17:45:11,955 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-11 17:45:12,391 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-11 17:45:12,391 - root - INFO - validating the dataframe
+2023-07-11 17:45:12,391 - Ingest - WARNING - here to count the records in the df_City
+2023-07-11 17:45:12,663 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-11 17:45:12,663 - root - INFO - reading file which is of > csv 
+2023-07-11 17:45:12,663 - Ingest - WARNING - load_files method started....
+2023-07-11 17:47:26,813 - root - INFO - calling spark object
+2023-07-11 17:47:26,813 - Create_spark - INFO - get_spark_object method started
+2023-07-11 17:47:26,813 - Create_spark - INFO - master is local
+2023-07-11 17:47:28,628 - Create_spark - INFO - Spark object created.....
+2023-07-11 17:47:28,628 - root - INFO - Validating spark object........
+2023-07-11 17:47:28,628 - Validate - WARNING - started the get_current_date method...
+2023-07-11 17:47:30,489 - Validate - WARNING - Validations done, going forward....
+2023-07-11 17:47:30,489 - root - INFO - reading file which is of > parquet 
+2023-07-11 17:47:30,489 - Ingest - WARNING - load_files method started....
+2023-07-11 17:47:30,826 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-11 17:47:31,264 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-11 17:47:31,264 - root - INFO - validating the dataframe
+2023-07-11 17:47:31,265 - Ingest - WARNING - here to count the records in the df_City
+2023-07-11 17:47:31,540 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-11 17:47:31,540 - root - INFO - reading file which is of > csv 
+2023-07-11 17:47:31,540 - Ingest - WARNING - load_files method started....
+2023-07-11 17:47:44,970 - root - INFO - calling spark object
+2023-07-11 17:47:44,970 - Create_spark - INFO - get_spark_object method started
+2023-07-11 17:47:44,970 - Create_spark - INFO - master is local
+2023-07-11 17:47:46,781 - Create_spark - INFO - Spark object created.....
+2023-07-11 17:47:46,782 - root - INFO - Validating spark object........
+2023-07-11 17:47:46,782 - Validate - WARNING - started the get_current_date method...
+2023-07-11 17:47:48,700 - Validate - WARNING - Validations done, going forward....
+2023-07-11 17:47:48,701 - root - INFO - reading file which is of > parquet 
+2023-07-11 17:47:48,701 - Ingest - WARNING - load_files method started....
+2023-07-11 17:47:49,044 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-11 17:47:49,482 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-11 17:47:49,482 - root - INFO - validating the dataframe
+2023-07-11 17:47:49,482 - Ingest - WARNING - here to count the records in the df_City
+2023-07-11 17:47:49,753 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-11 17:47:49,753 - root - INFO - reading file which is of > csv 
+2023-07-11 17:47:49,753 - Ingest - WARNING - load_files method started....
+2023-07-11 17:48:59,827 - root - INFO - calling spark object
+2023-07-11 17:48:59,827 - Create_spark - INFO - get_spark_object method started
+2023-07-11 17:48:59,827 - Create_spark - INFO - master is local
+2023-07-11 17:49:01,644 - Create_spark - INFO - Spark object created.....
+2023-07-11 17:49:01,644 - root - INFO - Validating spark object........
+2023-07-11 17:49:01,644 - Validate - WARNING - started the get_current_date method...
+2023-07-11 17:49:03,500 - Validate - WARNING - Validations done, going forward....
+2023-07-11 17:49:03,500 - root - INFO - reading file which is of > parquet 
+2023-07-11 17:49:03,500 - Ingest - WARNING - load_files method started....
+2023-07-11 17:49:03,833 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-11 17:49:04,269 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-11 17:49:04,269 - root - INFO - validating the dataframe
+2023-07-11 17:49:04,269 - Ingest - WARNING - here to count the records in the df_City
+2023-07-11 17:49:04,541 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-11 17:49:04,542 - root - INFO - reading file which is of > csv 
+2023-07-11 17:49:04,542 - Ingest - WARNING - load_files method started....
+2023-07-11 17:49:07,060 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-11 17:49:07,181 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-11 17:49:07,181 - root - INFO - validating the dataframe
+2023-07-11 17:49:07,181 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-11 17:49:07,614 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-11 17:49:07,614 - root - INFO - Application done
+2023-07-11 17:49:19,081 - root - INFO - calling spark object
+2023-07-11 17:49:19,081 - Create_spark - INFO - get_spark_object method started
+2023-07-11 17:49:19,081 - Create_spark - INFO - master is local
+2023-07-11 17:49:20,911 - Create_spark - INFO - Spark object created.....
+2023-07-11 17:49:20,911 - root - INFO - Validating spark object........
+2023-07-11 17:49:20,911 - Validate - WARNING - started the get_current_date method...
+2023-07-11 17:49:22,799 - Validate - WARNING - Validations done, going forward....
+2023-07-11 17:49:22,800 - root - INFO - reading file which is of > parquet 
+2023-07-11 17:49:22,800 - Ingest - WARNING - load_files method started....
+2023-07-11 17:49:23,146 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-11 17:49:23,585 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-11 17:49:23,585 - root - INFO - validating the dataframe
+2023-07-11 17:49:23,585 - Ingest - WARNING - here to count the records in the df_City
+2023-07-11 17:49:23,871 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-11 17:49:23,872 - root - INFO - reading file which is of > csv 
+2023-07-11 17:49:23,872 - Ingest - WARNING - load_files method started....
+2023-07-11 17:49:26,346 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-11 17:49:26,470 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-11 17:49:26,470 - root - INFO - validating the dataframe
+2023-07-11 17:49:26,470 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-11 17:49:26,895 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-11 17:49:26,895 - root - INFO - Application done
+2023-07-12 17:47:07,885 - root - INFO - calling spark object
+2023-07-12 17:47:07,885 - Create_spark - INFO - get_spark_object method started
+2023-07-12 17:47:07,885 - Create_spark - INFO - master is local
+2023-07-12 17:47:10,114 - Create_spark - INFO - Spark object created.....
+2023-07-12 17:47:10,114 - root - INFO - Validating spark object........
+2023-07-12 17:47:10,114 - Validate - WARNING - started the get_current_date method...
+2023-07-12 17:47:12,189 - Validate - WARNING - Validations done, going forward....
+2023-07-12 17:47:12,189 - root - INFO - reading file which is of > parquet 
+2023-07-12 17:47:12,189 - Ingest - WARNING - load_files method started....
+2023-07-12 17:47:12,592 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-12 17:47:13,059 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-12 17:47:13,059 - root - INFO - validating the dataframe
+2023-07-12 17:47:13,060 - Ingest - WARNING - here to count the records in the df_City
+2023-07-12 17:47:13,349 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-12 17:47:13,350 - root - INFO - reading file which is of > csv 
+2023-07-12 17:47:13,350 - Ingest - WARNING - load_files method started....
+2023-07-12 17:47:15,871 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-12 17:47:15,989 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-12 17:47:15,989 - root - INFO - validating the dataframe
+2023-07-12 17:47:15,989 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-12 17:47:16,393 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-12 17:47:16,393 - Data_processing - WARNING - data_clean method() started...
+2023-07-12 17:47:16,393 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-12 17:49:46,293 - root - INFO - calling spark object
+2023-07-12 17:49:46,294 - Create_spark - INFO - get_spark_object method started
+2023-07-12 17:49:46,294 - Create_spark - INFO - master is local
+2023-07-12 17:49:48,103 - Create_spark - INFO - Spark object created.....
+2023-07-12 17:49:48,103 - root - INFO - Validating spark object........
+2023-07-12 17:49:48,103 - Validate - WARNING - started the get_current_date method...
+2023-07-12 17:49:49,975 - Validate - WARNING - Validations done, going forward....
+2023-07-12 17:49:49,975 - root - INFO - reading file which is of > parquet 
+2023-07-12 17:49:49,975 - Ingest - WARNING - load_files method started....
+2023-07-12 17:49:50,321 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-12 17:49:50,783 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-12 17:49:50,783 - root - INFO - validating the dataframe
+2023-07-12 17:49:50,783 - Ingest - WARNING - here to count the records in the df_City
+2023-07-12 17:49:51,045 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-12 17:49:51,046 - root - INFO - reading file which is of > csv 
+2023-07-12 17:49:51,046 - Ingest - WARNING - load_files method started....
+2023-07-12 17:49:53,516 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-12 17:49:53,636 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-12 17:49:53,636 - root - INFO - validating the dataframe
+2023-07-12 17:49:53,636 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-12 17:49:54,027 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-12 17:49:54,027 - Data_processing - WARNING - data_clean method() started...
+2023-07-12 17:49:54,027 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-12 17:49:54,045 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-12 17:49:54,055 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-12 17:49:54,120 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-12 17:49:54,182 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-12 17:49:54,182 - root - INFO - Application done
+2023-07-12 17:50:49,793 - root - INFO - calling spark object
+2023-07-12 17:50:49,794 - Create_spark - INFO - get_spark_object method started
+2023-07-12 17:50:49,794 - Create_spark - INFO - master is local
+2023-07-12 17:50:51,599 - Create_spark - INFO - Spark object created.....
+2023-07-12 17:50:51,599 - root - INFO - Validating spark object........
+2023-07-12 17:50:51,599 - Validate - WARNING - started the get_current_date method...
+2023-07-12 17:50:53,467 - Validate - WARNING - Validations done, going forward....
+2023-07-12 17:50:53,468 - root - INFO - reading file which is of > parquet 
+2023-07-12 17:50:53,468 - Ingest - WARNING - load_files method started....
+2023-07-12 17:50:53,801 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-12 17:50:54,232 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-12 17:50:54,232 - root - INFO - validating the dataframe
+2023-07-12 17:50:54,232 - Ingest - WARNING - here to count the records in the df_City
+2023-07-12 17:50:54,501 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-12 17:50:54,501 - root - INFO - reading file which is of > csv 
+2023-07-12 17:50:54,501 - Ingest - WARNING - load_files method started....
+2023-07-12 17:50:56,956 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-12 17:50:57,072 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-12 17:50:57,072 - root - INFO - validating the dataframe
+2023-07-12 17:50:57,072 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-12 17:50:57,444 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-12 17:50:57,445 - Data_processing - WARNING - data_clean method() started...
+2023-07-12 17:50:57,445 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-12 17:50:57,463 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-12 17:50:57,473 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-12 17:50:57,537 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-12 17:50:57,617 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-12 17:50:57,617 - root - INFO - Application done
+2023-07-12 17:52:24,409 - root - INFO - calling spark object
+2023-07-12 17:52:24,409 - Create_spark - INFO - get_spark_object method started
+2023-07-12 17:52:24,409 - Create_spark - INFO - master is local
+2023-07-12 17:52:26,310 - Create_spark - INFO - Spark object created.....
+2023-07-12 17:52:26,310 - root - INFO - Validating spark object........
+2023-07-12 17:52:26,310 - Validate - WARNING - started the get_current_date method...
+2023-07-12 17:52:28,254 - Validate - WARNING - Validations done, going forward....
+2023-07-12 17:52:28,254 - root - INFO - reading file which is of > parquet 
+2023-07-12 17:52:28,254 - Ingest - WARNING - load_files method started....
+2023-07-12 17:52:28,594 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-12 17:52:29,051 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-12 17:52:29,051 - root - INFO - validating the dataframe
+2023-07-12 17:52:29,051 - Ingest - WARNING - here to count the records in the df_City
+2023-07-12 17:52:29,331 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-12 17:52:29,332 - root - INFO - reading file which is of > csv 
+2023-07-12 17:52:29,332 - Ingest - WARNING - load_files method started....
+2023-07-12 17:52:31,913 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-12 17:52:32,038 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-12 17:52:32,038 - root - INFO - validating the dataframe
+2023-07-12 17:52:32,038 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-12 17:52:32,415 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-12 17:52:32,416 - Data_processing - WARNING - data_clean method() started...
+2023-07-12 17:52:32,416 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-12 17:52:32,433 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-12 17:52:32,442 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-12 17:52:32,518 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-12 17:52:32,596 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-12 17:52:32,596 - root - INFO - Application done
+2023-07-12 17:55:40,744 - root - INFO - calling spark object
+2023-07-12 17:55:40,745 - Create_spark - INFO - get_spark_object method started
+2023-07-12 17:55:40,745 - Create_spark - INFO - master is local
+2023-07-12 17:55:42,659 - Create_spark - INFO - Spark object created.....
+2023-07-12 17:55:42,659 - root - INFO - Validating spark object........
+2023-07-12 17:55:42,659 - Validate - WARNING - started the get_current_date method...
+2023-07-12 17:55:44,593 - Validate - WARNING - Validations done, going forward....
+2023-07-12 17:55:44,593 - root - INFO - reading file which is of > parquet 
+2023-07-12 17:55:44,593 - Ingest - WARNING - load_files method started....
+2023-07-12 17:55:44,934 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-12 17:55:45,393 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-12 17:55:45,393 - root - INFO - validating the dataframe
+2023-07-12 17:55:45,393 - Ingest - WARNING - here to count the records in the df_City
+2023-07-12 17:55:45,687 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-12 17:55:45,687 - root - INFO - reading file which is of > csv 
+2023-07-12 17:55:45,687 - Ingest - WARNING - load_files method started....
+2023-07-12 17:55:48,271 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-12 17:55:48,403 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-12 17:55:48,403 - root - INFO - validating the dataframe
+2023-07-12 17:55:48,404 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-12 17:55:48,819 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-12 17:55:48,819 - Data_processing - WARNING - data_clean method() started...
+2023-07-12 17:55:48,819 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-12 17:55:48,837 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-12 17:55:48,846 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-12 17:55:48,877 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-12 17:55:48,945 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-12 17:55:49,020 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-12 17:55:49,020 - root - INFO - Application done
+2023-07-12 18:06:02,056 - root - INFO - calling spark object
+2023-07-12 18:06:02,056 - Create_spark - INFO - get_spark_object method started
+2023-07-12 18:06:02,056 - Create_spark - INFO - master is local
+2023-07-12 18:06:03,852 - Create_spark - INFO - Spark object created.....
+2023-07-12 18:06:03,852 - root - INFO - Validating spark object........
+2023-07-12 18:06:03,852 - Validate - WARNING - started the get_current_date method...
+2023-07-12 18:06:05,695 - Validate - WARNING - Validations done, going forward....
+2023-07-12 18:06:05,696 - root - INFO - reading file which is of > parquet 
+2023-07-12 18:06:05,696 - Ingest - WARNING - load_files method started....
+2023-07-12 18:06:06,026 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-12 18:06:06,461 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-12 18:06:06,461 - root - INFO - validating the dataframe
+2023-07-12 18:06:06,461 - Ingest - WARNING - here to count the records in the df_City
+2023-07-12 18:06:06,742 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-12 18:06:06,742 - root - INFO - reading file which is of > csv 
+2023-07-12 18:06:06,742 - Ingest - WARNING - load_files method started....
+2023-07-12 18:06:09,225 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-12 18:06:09,343 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-12 18:06:09,344 - root - INFO - validating the dataframe
+2023-07-12 18:06:09,344 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-12 18:06:09,730 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-12 18:06:09,731 - Data_processing - WARNING - data_clean method() started...
+2023-07-12 18:06:09,731 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-12 18:06:09,747 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-12 18:06:09,756 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-12 18:06:09,784 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-12 18:06:09,854 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-12 18:06:09,933 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-12 18:06:09,934 - root - INFO - Application done
+2023-07-12 18:22:23,270 - root - INFO - calling spark object
+2023-07-12 18:22:23,270 - Create_spark - INFO - get_spark_object method started
+2023-07-12 18:22:23,270 - Create_spark - INFO - master is local
+2023-07-12 18:22:25,076 - Create_spark - INFO - Spark object created.....
+2023-07-12 18:22:25,076 - root - INFO - Validating spark object........
+2023-07-12 18:22:25,076 - Validate - WARNING - started the get_current_date method...
+2023-07-12 18:22:26,948 - Validate - WARNING - Validations done, going forward....
+2023-07-12 18:22:26,948 - root - INFO - reading file which is of > parquet 
+2023-07-12 18:22:26,949 - Ingest - WARNING - load_files method started....
+2023-07-12 18:22:27,289 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-12 18:22:27,719 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-12 18:22:27,719 - root - INFO - validating the dataframe
+2023-07-12 18:22:27,719 - Ingest - WARNING - here to count the records in the df_City
+2023-07-12 18:22:27,997 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-12 18:22:27,998 - root - INFO - reading file which is of > csv 
+2023-07-12 18:22:27,998 - Ingest - WARNING - load_files method started....
+2023-07-12 18:22:30,466 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-12 18:22:30,586 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-12 18:22:30,586 - root - INFO - validating the dataframe
+2023-07-12 18:22:30,586 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-12 18:22:31,000 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-12 18:22:31,000 - Data_processing - WARNING - data_clean method() started...
+2023-07-12 18:22:31,000 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-12 18:22:31,018 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-12 18:22:31,027 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-12 18:22:31,138 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-12 18:22:31,212 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-12 18:22:31,212 - root - INFO - Application done
+2023-07-12 18:23:26,976 - root - INFO - calling spark object
+2023-07-12 18:23:26,976 - Create_spark - INFO - get_spark_object method started
+2023-07-12 18:23:26,976 - Create_spark - INFO - master is local
+2023-07-12 18:23:28,773 - Create_spark - INFO - Spark object created.....
+2023-07-12 18:23:28,773 - root - INFO - Validating spark object........
+2023-07-12 18:23:28,774 - Validate - WARNING - started the get_current_date method...
+2023-07-12 18:23:30,624 - Validate - WARNING - Validations done, going forward....
+2023-07-12 18:23:30,624 - root - INFO - reading file which is of > parquet 
+2023-07-12 18:23:30,625 - Ingest - WARNING - load_files method started....
+2023-07-12 18:23:30,955 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-12 18:23:31,390 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-12 18:23:31,390 - root - INFO - validating the dataframe
+2023-07-12 18:23:31,390 - Ingest - WARNING - here to count the records in the df_City
+2023-07-12 18:23:31,658 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-12 18:23:31,658 - root - INFO - reading file which is of > csv 
+2023-07-12 18:23:31,659 - Ingest - WARNING - load_files method started....
+2023-07-12 18:23:34,219 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-12 18:23:34,341 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-12 18:23:34,341 - root - INFO - validating the dataframe
+2023-07-12 18:23:34,341 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-12 18:23:34,746 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-12 18:23:34,746 - Data_processing - WARNING - data_clean method() started...
+2023-07-12 18:23:34,747 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-12 18:23:34,763 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-12 18:23:34,771 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-12 18:23:34,829 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-12 18:23:34,895 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-12 18:23:34,981 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-12 18:23:34,981 - root - INFO - Application done
+2023-07-13 19:42:31,896 - root - INFO - calling spark object
+2023-07-13 19:42:31,897 - Create_spark - INFO - get_spark_object method started
+2023-07-13 19:42:31,897 - Create_spark - INFO - master is local
+2023-07-13 19:42:34,142 - Create_spark - INFO - Spark object created.....
+2023-07-13 19:42:34,142 - root - INFO - Validating spark object........
+2023-07-13 19:42:34,142 - Validate - WARNING - started the get_current_date method...
+2023-07-13 19:42:36,215 - Validate - WARNING - Validations done, going forward....
+2023-07-13 19:42:36,215 - root - INFO - reading file which is of > parquet 
+2023-07-13 19:42:36,215 - Ingest - WARNING - load_files method started....
+2023-07-13 19:42:36,611 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-13 19:42:37,071 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-13 19:42:37,071 - root - INFO - validating the dataframe
+2023-07-13 19:42:37,071 - Ingest - WARNING - here to count the records in the df_City
+2023-07-13 19:42:37,363 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-13 19:42:37,364 - root - INFO - reading file which is of > csv 
+2023-07-13 19:42:37,364 - Ingest - WARNING - load_files method started....
+2023-07-13 19:42:39,902 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-13 19:42:40,019 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-13 19:42:40,019 - root - INFO - validating the dataframe
+2023-07-13 19:42:40,019 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-13 19:42:40,436 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-13 19:42:40,436 - Data_processing - WARNING - data_clean method() started...
+2023-07-13 19:42:40,436 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-13 19:42:40,455 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-13 19:42:40,463 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-13 19:42:40,523 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-13 19:42:40,658 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-13 19:42:40,763 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-13 19:42:40,763 - root - INFO - Application done
+2023-07-13 19:43:28,624 - root - INFO - calling spark object
+2023-07-13 19:43:28,624 - Create_spark - INFO - get_spark_object method started
+2023-07-13 19:43:28,624 - Create_spark - INFO - master is local
+2023-07-13 19:43:30,436 - Create_spark - INFO - Spark object created.....
+2023-07-13 19:43:30,436 - root - INFO - Validating spark object........
+2023-07-13 19:43:30,436 - Validate - WARNING - started the get_current_date method...
+2023-07-13 19:43:32,291 - Validate - WARNING - Validations done, going forward....
+2023-07-13 19:43:32,291 - root - INFO - reading file which is of > parquet 
+2023-07-13 19:43:32,291 - Ingest - WARNING - load_files method started....
+2023-07-13 19:43:32,622 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-13 19:43:33,050 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-13 19:43:33,050 - root - INFO - validating the dataframe
+2023-07-13 19:43:33,050 - Ingest - WARNING - here to count the records in the df_City
+2023-07-13 19:43:33,308 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-13 19:43:33,308 - root - INFO - reading file which is of > csv 
+2023-07-13 19:43:33,308 - Ingest - WARNING - load_files method started....
+2023-07-13 19:43:35,794 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-13 19:43:35,909 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-13 19:43:35,909 - root - INFO - validating the dataframe
+2023-07-13 19:43:35,909 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-13 19:43:36,280 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-13 19:43:36,281 - Data_processing - WARNING - data_clean method() started...
+2023-07-13 19:43:36,281 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-13 19:43:36,297 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-13 19:43:36,305 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-13 19:43:36,359 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-13 19:43:36,443 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-13 19:43:36,510 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-13 19:43:36,609 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-13 19:43:36,609 - root - INFO - Application done
+2023-07-13 19:44:01,356 - root - INFO - calling spark object
+2023-07-13 19:44:01,356 - Create_spark - INFO - get_spark_object method started
+2023-07-13 19:44:01,356 - Create_spark - INFO - master is local
+2023-07-13 19:44:03,178 - Create_spark - INFO - Spark object created.....
+2023-07-13 19:44:03,178 - root - INFO - Validating spark object........
+2023-07-13 19:44:03,178 - Validate - WARNING - started the get_current_date method...
+2023-07-13 19:44:05,050 - Validate - WARNING - Validations done, going forward....
+2023-07-13 19:44:05,050 - root - INFO - reading file which is of > parquet 
+2023-07-13 19:44:05,050 - Ingest - WARNING - load_files method started....
+2023-07-13 19:44:05,382 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-13 19:44:05,825 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-13 19:44:05,825 - root - INFO - validating the dataframe
+2023-07-13 19:44:05,826 - Ingest - WARNING - here to count the records in the df_City
+2023-07-13 19:44:06,105 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-13 19:44:06,106 - root - INFO - reading file which is of > csv 
+2023-07-13 19:44:06,106 - Ingest - WARNING - load_files method started....
+2023-07-13 19:44:08,653 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-13 19:44:08,774 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-13 19:44:08,774 - root - INFO - validating the dataframe
+2023-07-13 19:44:08,774 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-13 19:44:09,182 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-13 19:44:09,182 - Data_processing - WARNING - data_clean method() started...
+2023-07-13 19:44:09,183 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-13 19:44:09,200 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-13 19:44:09,210 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-13 19:44:09,270 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-13 19:44:10,885 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-13 19:44:10,949 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-13 19:44:11,038 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-13 19:44:11,038 - root - INFO - Application done
+2023-07-13 19:44:25,331 - root - INFO - calling spark object
+2023-07-13 19:44:25,331 - Create_spark - INFO - get_spark_object method started
+2023-07-13 19:44:25,331 - Create_spark - INFO - master is local
+2023-07-13 19:44:27,151 - Create_spark - INFO - Spark object created.....
+2023-07-13 19:44:27,151 - root - INFO - Validating spark object........
+2023-07-13 19:44:27,151 - Validate - WARNING - started the get_current_date method...
+2023-07-13 19:44:29,001 - Validate - WARNING - Validations done, going forward....
+2023-07-13 19:44:29,001 - root - INFO - reading file which is of > parquet 
+2023-07-13 19:44:29,001 - Ingest - WARNING - load_files method started....
+2023-07-13 19:44:29,342 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-13 19:44:29,785 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-13 19:44:29,785 - root - INFO - validating the dataframe
+2023-07-13 19:44:29,785 - Ingest - WARNING - here to count the records in the df_City
+2023-07-13 19:44:30,066 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-13 19:44:30,066 - root - INFO - reading file which is of > csv 
+2023-07-13 19:44:30,066 - Ingest - WARNING - load_files method started....
+2023-07-13 19:44:32,619 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-13 19:44:32,738 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-13 19:44:32,738 - root - INFO - validating the dataframe
+2023-07-13 19:44:32,738 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-13 19:44:33,231 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-13 19:44:33,231 - Data_processing - WARNING - data_clean method() started...
+2023-07-13 19:44:33,231 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-13 19:44:33,249 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-13 19:44:33,257 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-13 19:44:33,318 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-13 19:44:35,049 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-13 19:44:35,137 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-13 19:44:35,137 - root - INFO - Application done
+2023-07-13 19:44:58,642 - root - INFO - calling spark object
+2023-07-13 19:44:58,642 - Create_spark - INFO - get_spark_object method started
+2023-07-13 19:44:58,642 - Create_spark - INFO - master is local
+2023-07-13 19:45:00,466 - Create_spark - INFO - Spark object created.....
+2023-07-13 19:45:00,466 - root - INFO - Validating spark object........
+2023-07-13 19:45:00,466 - Validate - WARNING - started the get_current_date method...
+2023-07-13 19:45:02,361 - Validate - WARNING - Validations done, going forward....
+2023-07-13 19:45:02,361 - root - INFO - reading file which is of > parquet 
+2023-07-13 19:45:02,361 - Ingest - WARNING - load_files method started....
+2023-07-13 19:45:02,702 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-13 19:45:03,140 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-13 19:45:03,140 - root - INFO - validating the dataframe
+2023-07-13 19:45:03,140 - Ingest - WARNING - here to count the records in the df_City
+2023-07-13 19:45:03,413 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-13 19:45:03,414 - root - INFO - reading file which is of > csv 
+2023-07-13 19:45:03,414 - Ingest - WARNING - load_files method started....
+2023-07-13 19:45:05,962 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-13 19:45:06,082 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-13 19:45:06,082 - root - INFO - validating the dataframe
+2023-07-13 19:45:06,082 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-13 19:45:06,507 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-13 19:45:06,507 - Data_processing - WARNING - data_clean method() started...
+2023-07-13 19:45:06,507 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-13 19:45:06,525 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-13 19:45:06,534 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-13 19:45:06,596 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-13 19:45:08,301 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-13 19:45:08,365 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-13 19:45:08,453 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-13 19:45:08,453 - root - INFO - Application done
+2023-07-13 19:45:28,297 - root - INFO - calling spark object
+2023-07-13 19:45:28,297 - Create_spark - INFO - get_spark_object method started
+2023-07-13 19:45:28,297 - Create_spark - INFO - master is local
+2023-07-13 19:45:30,111 - Create_spark - INFO - Spark object created.....
+2023-07-13 19:45:30,111 - root - INFO - Validating spark object........
+2023-07-13 19:45:30,112 - Validate - WARNING - started the get_current_date method...
+2023-07-13 19:45:31,952 - Validate - WARNING - Validations done, going forward....
+2023-07-13 19:45:31,952 - root - INFO - reading file which is of > parquet 
+2023-07-13 19:45:31,952 - Ingest - WARNING - load_files method started....
+2023-07-13 19:45:32,289 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-13 19:45:32,725 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-13 19:45:32,725 - root - INFO - validating the dataframe
+2023-07-13 19:45:32,725 - Ingest - WARNING - here to count the records in the df_City
+2023-07-13 19:45:32,990 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-13 19:45:32,991 - root - INFO - reading file which is of > csv 
+2023-07-13 19:45:32,991 - Ingest - WARNING - load_files method started....
+2023-07-13 19:45:35,526 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-13 19:45:35,646 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-13 19:45:35,646 - root - INFO - validating the dataframe
+2023-07-13 19:45:35,646 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-13 19:45:36,055 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-13 19:45:36,055 - Data_processing - WARNING - data_clean method() started...
+2023-07-13 19:45:36,055 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-13 19:45:36,072 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-13 19:45:36,080 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-13 19:45:36,142 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-13 19:45:37,664 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-13 19:45:37,725 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-13 19:45:37,808 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-13 19:45:37,808 - root - INFO - Application done
+2023-07-13 19:46:10,928 - root - INFO - calling spark object
+2023-07-13 19:46:10,928 - Create_spark - INFO - get_spark_object method started
+2023-07-13 19:46:10,928 - Create_spark - INFO - master is local
+2023-07-13 19:46:12,709 - Create_spark - INFO - Spark object created.....
+2023-07-13 19:46:12,709 - root - INFO - Validating spark object........
+2023-07-13 19:46:12,709 - Validate - WARNING - started the get_current_date method...
+2023-07-13 19:46:14,559 - Validate - WARNING - Validations done, going forward....
+2023-07-13 19:46:14,559 - root - INFO - reading file which is of > parquet 
+2023-07-13 19:46:14,559 - Ingest - WARNING - load_files method started....
+2023-07-13 19:46:14,897 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-13 19:46:15,329 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-13 19:46:15,330 - root - INFO - validating the dataframe
+2023-07-13 19:46:15,330 - Ingest - WARNING - here to count the records in the df_City
+2023-07-13 19:46:15,596 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-13 19:46:15,596 - root - INFO - reading file which is of > csv 
+2023-07-13 19:46:15,596 - Ingest - WARNING - load_files method started....
+2023-07-13 19:46:18,102 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-13 19:46:18,227 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-13 19:46:18,228 - root - INFO - validating the dataframe
+2023-07-13 19:46:18,228 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-13 19:46:18,629 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-13 19:46:18,629 - Data_processing - WARNING - data_clean method() started...
+2023-07-13 19:46:18,629 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-13 19:46:18,646 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-13 19:46:18,654 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-13 19:46:18,715 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-13 19:46:20,261 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-13 19:46:20,325 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-13 19:46:20,412 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-13 19:46:20,412 - root - INFO - Application done
+2023-07-13 19:46:44,517 - root - INFO - calling spark object
+2023-07-13 19:46:44,518 - Create_spark - INFO - get_spark_object method started
+2023-07-13 19:46:44,518 - Create_spark - INFO - master is local
+2023-07-13 19:46:46,366 - Create_spark - INFO - Spark object created.....
+2023-07-13 19:46:46,366 - root - INFO - Validating spark object........
+2023-07-13 19:46:46,366 - Validate - WARNING - started the get_current_date method...
+2023-07-13 19:46:48,239 - Validate - WARNING - Validations done, going forward....
+2023-07-13 19:46:48,239 - root - INFO - reading file which is of > parquet 
+2023-07-13 19:46:48,239 - Ingest - WARNING - load_files method started....
+2023-07-13 19:46:48,581 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-13 19:46:49,013 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-13 19:46:49,014 - root - INFO - validating the dataframe
+2023-07-13 19:46:49,014 - Ingest - WARNING - here to count the records in the df_City
+2023-07-13 19:46:49,304 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-13 19:46:49,304 - root - INFO - reading file which is of > csv 
+2023-07-13 19:46:49,304 - Ingest - WARNING - load_files method started....
+2023-07-13 19:46:51,804 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-13 19:46:51,925 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-13 19:46:51,925 - root - INFO - validating the dataframe
+2023-07-13 19:46:51,925 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-13 19:46:52,339 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-13 19:46:52,340 - Data_processing - WARNING - data_clean method() started...
+2023-07-13 19:46:52,340 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-13 19:46:52,358 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-13 19:46:52,367 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-13 19:46:52,428 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-13 19:46:54,084 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-13 19:46:54,151 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-13 19:46:54,243 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-13 19:46:54,243 - root - INFO - Application done
+2023-07-13 19:47:27,823 - root - INFO - calling spark object
+2023-07-13 19:47:27,824 - Create_spark - INFO - get_spark_object method started
+2023-07-13 19:47:27,824 - Create_spark - INFO - master is local
+2023-07-13 19:47:29,631 - Create_spark - INFO - Spark object created.....
+2023-07-13 19:47:29,631 - root - INFO - Validating spark object........
+2023-07-13 19:47:29,631 - Validate - WARNING - started the get_current_date method...
+2023-07-13 19:47:31,518 - Validate - WARNING - Validations done, going forward....
+2023-07-13 19:47:31,519 - root - INFO - reading file which is of > parquet 
+2023-07-13 19:47:31,519 - Ingest - WARNING - load_files method started....
+2023-07-13 19:47:31,855 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-13 19:47:32,293 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-13 19:47:32,293 - root - INFO - validating the dataframe
+2023-07-13 19:47:32,293 - Ingest - WARNING - here to count the records in the df_City
+2023-07-13 19:47:32,575 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-13 19:47:32,575 - root - INFO - reading file which is of > csv 
+2023-07-13 19:47:32,575 - Ingest - WARNING - load_files method started....
+2023-07-13 19:47:35,140 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-13 19:47:35,255 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-13 19:47:35,255 - root - INFO - validating the dataframe
+2023-07-13 19:47:35,255 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-13 19:47:35,680 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-13 19:47:35,680 - Data_processing - WARNING - data_clean method() started...
+2023-07-13 19:47:35,680 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-13 19:47:35,700 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-13 19:47:35,709 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-13 19:47:35,775 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-13 19:47:37,406 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-13 19:47:37,474 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-13 19:47:37,564 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-13 19:47:37,564 - root - INFO - Application done
+2023-07-13 19:48:42,332 - root - INFO - calling spark object
+2023-07-13 19:48:42,332 - Create_spark - INFO - get_spark_object method started
+2023-07-13 19:48:42,332 - Create_spark - INFO - master is local
+2023-07-13 19:48:44,124 - Create_spark - INFO - Spark object created.....
+2023-07-13 19:48:44,124 - root - INFO - Validating spark object........
+2023-07-13 19:48:44,124 - Validate - WARNING - started the get_current_date method...
+2023-07-13 19:48:45,972 - Validate - WARNING - Validations done, going forward....
+2023-07-13 19:48:45,972 - root - INFO - reading file which is of > parquet 
+2023-07-13 19:48:45,972 - Ingest - WARNING - load_files method started....
+2023-07-13 19:48:46,300 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-13 19:48:46,735 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-13 19:48:46,735 - root - INFO - validating the dataframe
+2023-07-13 19:48:46,735 - Ingest - WARNING - here to count the records in the df_City
+2023-07-13 19:48:47,015 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-13 19:48:47,015 - root - INFO - reading file which is of > csv 
+2023-07-13 19:48:47,015 - Ingest - WARNING - load_files method started....
+2023-07-13 19:48:49,584 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-13 19:48:49,704 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-13 19:48:49,704 - root - INFO - validating the dataframe
+2023-07-13 19:48:49,704 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-13 19:48:50,107 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-13 19:48:50,107 - Data_processing - WARNING - data_clean method() started...
+2023-07-13 19:48:50,107 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-13 19:48:50,124 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-13 19:48:50,132 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-13 19:48:50,191 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-13 19:49:02,231 - root - INFO - Exception while sending command.
+Traceback (most recent call last):
+  File "C:\spark\spark-3.2.4-bin-hadoop2.7\python\lib\py4j-0.10.9.5-src.zip\py4j\clientserver.py", line 503, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\spark\spark-3.2.4-bin-hadoop2.7\python\lib\py4j-0.10.9.5-src.zip\py4j\java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+  File "C:\spark\spark-3.2.4-bin-hadoop2.7\python\lib\py4j-0.10.9.5-src.zip\py4j\clientserver.py", line 506, in send_command
+    raise Py4JNetworkError(
+py4j.protocol.Py4JNetworkError: Error while sending
+2023-07-13 19:49:49,014 - root - INFO - calling spark object
+2023-07-13 19:49:49,014 - Create_spark - INFO - get_spark_object method started
+2023-07-13 19:49:49,014 - Create_spark - INFO - master is local
+2023-07-13 19:49:50,841 - Create_spark - INFO - Spark object created.....
+2023-07-13 19:49:50,841 - root - INFO - Validating spark object........
+2023-07-13 19:49:50,841 - Validate - WARNING - started the get_current_date method...
+2023-07-13 19:49:52,824 - Validate - WARNING - Validations done, going forward....
+2023-07-13 19:49:52,825 - root - INFO - reading file which is of > parquet 
+2023-07-13 19:49:52,825 - Ingest - WARNING - load_files method started....
+2023-07-13 19:49:53,164 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-13 19:49:53,611 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-13 19:49:53,611 - root - INFO - validating the dataframe
+2023-07-13 19:49:53,611 - Ingest - WARNING - here to count the records in the df_City
+2023-07-13 19:49:53,884 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-13 19:49:53,884 - root - INFO - reading file which is of > csv 
+2023-07-13 19:49:53,885 - Ingest - WARNING - load_files method started....
+2023-07-13 19:49:56,378 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-13 19:49:56,499 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-13 19:49:56,499 - root - INFO - validating the dataframe
+2023-07-13 19:49:56,499 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-13 19:49:56,902 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-13 19:49:56,902 - Data_processing - WARNING - data_clean method() started...
+2023-07-13 19:49:56,902 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-13 19:49:56,921 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-13 19:49:56,931 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-13 19:49:56,997 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-13 19:49:58,594 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-13 19:49:58,656 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-13 19:49:58,754 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-13 19:49:58,754 - root - INFO - Application done
+2023-07-16 22:32:00,278 - root - INFO - calling spark object
+2023-07-16 22:32:00,278 - Create_spark - INFO - get_spark_object method started
+2023-07-16 22:32:00,278 - Create_spark - INFO - master is local
+2023-07-16 22:32:02,499 - Create_spark - INFO - Spark object created.....
+2023-07-16 22:32:02,499 - root - INFO - Validating spark object........
+2023-07-16 22:32:02,499 - Validate - WARNING - started the get_current_date method...
+2023-07-16 22:32:04,636 - Validate - WARNING - Validations done, going forward....
+2023-07-16 22:32:04,637 - root - INFO - reading file which is of > parquet 
+2023-07-16 22:32:04,637 - Ingest - WARNING - load_files method started....
+2023-07-16 22:32:05,032 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-16 22:32:05,490 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-16 22:32:05,490 - root - INFO - validating the dataframe
+2023-07-16 22:32:05,490 - Ingest - WARNING - here to count the records in the df_City
+2023-07-16 22:32:05,779 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-16 22:32:05,779 - root - INFO - reading file which is of > csv 
+2023-07-16 22:32:05,779 - Ingest - WARNING - load_files method started....
+2023-07-16 22:32:08,378 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-16 22:32:08,500 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-16 22:32:08,500 - root - INFO - validating the dataframe
+2023-07-16 22:32:08,501 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-16 22:32:08,924 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-16 22:32:08,924 - Data_processing - WARNING - data_clean method() started...
+2023-07-16 22:32:08,924 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-16 22:32:08,943 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-16 22:32:08,952 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-16 22:32:09,011 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-16 22:32:10,618 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-16 22:32:10,680 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-16 22:32:10,772 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-16 22:32:10,772 - root - INFO - data_processing execution strted
+2023-07-16 22:32:10,772 - Data_transformation - WARNING - processing in data_report method..
+2023-07-16 22:32:10,773 - Data_transformation - WARNING - calculating total zip counts in DataFrame[city: string, state_id: string, state_name: string, country_name: string, population: int, zips: string]
+2023-07-16 22:32:48,414 - root - INFO - calling spark object
+2023-07-16 22:32:48,414 - Create_spark - INFO - get_spark_object method started
+2023-07-16 22:32:48,414 - Create_spark - INFO - master is local
+2023-07-16 22:32:50,209 - Create_spark - INFO - Spark object created.....
+2023-07-16 22:32:50,209 - root - INFO - Validating spark object........
+2023-07-16 22:32:50,209 - Validate - WARNING - started the get_current_date method...
+2023-07-16 22:32:52,073 - Validate - WARNING - Validations done, going forward....
+2023-07-16 22:32:52,074 - root - INFO - reading file which is of > parquet 
+2023-07-16 22:32:52,074 - Ingest - WARNING - load_files method started....
+2023-07-16 22:32:52,416 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-16 22:32:52,855 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-16 22:32:52,855 - root - INFO - validating the dataframe
+2023-07-16 22:32:52,856 - Ingest - WARNING - here to count the records in the df_City
+2023-07-16 22:32:53,133 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-16 22:32:53,133 - root - INFO - reading file which is of > csv 
+2023-07-16 22:32:53,133 - Ingest - WARNING - load_files method started....
+2023-07-16 22:32:55,682 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-16 22:32:55,801 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-16 22:32:55,802 - root - INFO - validating the dataframe
+2023-07-16 22:32:55,802 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-16 22:32:56,214 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-16 22:32:56,215 - Data_processing - WARNING - data_clean method() started...
+2023-07-16 22:32:56,215 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-16 22:32:56,232 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-16 22:32:56,241 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-16 22:32:56,297 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-16 22:32:57,854 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-16 22:32:57,908 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-16 22:32:57,993 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-16 22:32:57,993 - root - INFO - data_processing execution strted
+2023-07-16 22:32:57,993 - Data_transformation - WARNING - processing in data_report method..
+2023-07-16 22:32:57,994 - Data_transformation - WARNING - calculating total zip counts in DataFrame[city: string, state_id: string, state_name: string, country_name: string, population: int, zips: string]
+2023-07-16 22:32:58,009 - Data_transformation - WARNING - calculating distinct prescribers with total txn cnt
+2023-07-16 22:33:25,855 - root - INFO - calling spark object
+2023-07-16 22:33:25,856 - Create_spark - INFO - get_spark_object method started
+2023-07-16 22:33:25,856 - Create_spark - INFO - master is local
+2023-07-16 22:33:27,650 - Create_spark - INFO - Spark object created.....
+2023-07-16 22:33:27,650 - root - INFO - Validating spark object........
+2023-07-16 22:33:27,650 - Validate - WARNING - started the get_current_date method...
+2023-07-16 22:33:29,514 - Validate - WARNING - Validations done, going forward....
+2023-07-16 22:33:29,514 - root - INFO - reading file which is of > parquet 
+2023-07-16 22:33:29,515 - Ingest - WARNING - load_files method started....
+2023-07-16 22:33:29,846 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-16 22:33:30,282 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-16 22:33:30,282 - root - INFO - validating the dataframe
+2023-07-16 22:33:30,282 - Ingest - WARNING - here to count the records in the df_City
+2023-07-16 22:33:30,564 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-16 22:33:30,564 - root - INFO - reading file which is of > csv 
+2023-07-16 22:33:30,564 - Ingest - WARNING - load_files method started....
+2023-07-16 22:33:33,129 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-16 22:33:33,244 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-16 22:33:33,244 - root - INFO - validating the dataframe
+2023-07-16 22:33:33,244 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-16 22:33:33,661 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-16 22:33:33,661 - Data_processing - WARNING - data_clean method() started...
+2023-07-16 22:33:33,661 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-16 22:33:33,679 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-16 22:33:33,688 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-16 22:33:33,751 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-16 22:33:35,506 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-16 22:33:35,571 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-16 22:33:35,666 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-16 22:33:35,666 - root - INFO - data_processing execution strted
+2023-07-16 22:33:35,666 - Data_transformation - WARNING - processing in data_report method..
+2023-07-16 22:33:35,667 - Data_transformation - WARNING - calculating total zip counts in DataFrame[city: string, state_id: string, state_name: string, country_name: string, population: int, zips: string]
+2023-07-16 22:33:35,682 - Data_transformation - WARNING - calculating distinct prescribers with total txn cnt
+2023-07-16 22:34:05,816 - root - INFO - calling spark object
+2023-07-16 22:34:05,816 - Create_spark - INFO - get_spark_object method started
+2023-07-16 22:34:05,816 - Create_spark - INFO - master is local
+2023-07-16 22:34:07,612 - Create_spark - INFO - Spark object created.....
+2023-07-16 22:34:07,612 - root - INFO - Validating spark object........
+2023-07-16 22:34:07,612 - Validate - WARNING - started the get_current_date method...
+2023-07-16 22:34:09,493 - Validate - WARNING - Validations done, going forward....
+2023-07-16 22:34:09,494 - root - INFO - reading file which is of > parquet 
+2023-07-16 22:34:09,494 - Ingest - WARNING - load_files method started....
+2023-07-16 22:34:09,838 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-16 22:34:10,297 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-16 22:34:10,297 - root - INFO - validating the dataframe
+2023-07-16 22:34:10,297 - Ingest - WARNING - here to count the records in the df_City
+2023-07-16 22:34:10,567 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-16 22:34:10,567 - root - INFO - reading file which is of > csv 
+2023-07-16 22:34:10,567 - Ingest - WARNING - load_files method started....
+2023-07-16 22:34:13,083 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-16 22:34:13,206 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-16 22:34:13,206 - root - INFO - validating the dataframe
+2023-07-16 22:34:13,206 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-16 22:34:13,594 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-16 22:34:13,595 - Data_processing - WARNING - data_clean method() started...
+2023-07-16 22:34:13,595 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-16 22:34:13,613 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-16 22:34:13,623 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-16 22:34:13,684 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-16 22:34:15,488 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-16 22:34:15,555 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-16 22:34:15,645 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-16 22:34:15,646 - root - INFO - data_processing execution strted
+2023-07-16 22:34:15,646 - Data_transformation - WARNING - processing in data_report method..
+2023-07-16 22:34:15,647 - Data_transformation - WARNING - calculating total zip counts in DataFrame[city: string, state_id: string, state_name: string, country_name: string, population: int, zips: string]
+2023-07-16 22:34:15,662 - Data_transformation - WARNING - calculating distinct prescribers with total txn cnt
+2023-07-16 22:34:15,682 - Data_transformation - WARNING - Don't report a city if no prescriber assigned to it....let's join df_city_sel and df_presc_sel
+2023-07-16 22:34:15,712 - Data_transformation - WARNING - Data_report successfuly executed...go forward
+2023-07-16 22:34:15,712 - root - INFO - displaying df_report
+2023-07-16 22:34:19,352 - Ingest - WARNING - displaying the dataframe df_report
+2023-07-16 22:34:19,353 - root - INFO - Application done
+2023-07-16 22:35:04,697 - root - INFO - calling spark object
+2023-07-16 22:35:04,697 - Create_spark - INFO - get_spark_object method started
+2023-07-16 22:35:04,697 - Create_spark - INFO - master is local
+2023-07-16 22:35:06,525 - Create_spark - INFO - Spark object created.....
+2023-07-16 22:35:06,525 - root - INFO - Validating spark object........
+2023-07-16 22:35:06,525 - Validate - WARNING - started the get_current_date method...
+2023-07-16 22:35:08,396 - Validate - WARNING - Validations done, going forward....
+2023-07-16 22:35:08,396 - root - INFO - reading file which is of > parquet 
+2023-07-16 22:35:08,396 - Ingest - WARNING - load_files method started....
+2023-07-16 22:35:08,725 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-16 22:35:09,185 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-16 22:35:09,185 - root - INFO - validating the dataframe
+2023-07-16 22:35:09,185 - Ingest - WARNING - here to count the records in the df_City
+2023-07-16 22:35:09,457 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-16 22:35:09,457 - root - INFO - reading file which is of > csv 
+2023-07-16 22:35:09,457 - Ingest - WARNING - load_files method started....
+2023-07-16 22:35:12,023 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-16 22:35:12,137 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-16 22:35:12,137 - root - INFO - validating the dataframe
+2023-07-16 22:35:12,138 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-16 22:35:12,535 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-16 22:35:12,535 - Data_processing - WARNING - data_clean method() started...
+2023-07-16 22:35:12,535 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-16 22:35:12,552 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-16 22:35:12,561 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-16 22:35:12,619 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-16 22:35:14,277 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-16 22:35:14,340 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-16 22:35:14,431 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-16 22:35:14,431 - root - INFO - data_processing execution strted
+2023-07-16 22:35:14,431 - Data_transformation - WARNING - processing in data_report method..
+2023-07-16 22:35:14,432 - Data_transformation - WARNING - calculating total zip counts in DataFrame[city: string, state_id: string, state_name: string, country_name: string, population: int, zips: string]
+2023-07-16 22:35:14,447 - Data_transformation - WARNING - calculating distinct prescribers with total txn cnt
+2023-07-16 22:35:14,466 - Data_transformation - WARNING - Don't report a city if no prescriber assigned to it....let's join df_city_sel and df_presc_sel
+2023-07-16 22:35:14,492 - Data_transformation - WARNING - Data_report successfuly executed...go forward
+2023-07-16 22:35:14,492 - root - INFO - displaying df_report
+2023-07-16 22:35:17,964 - Ingest - WARNING - displaying the dataframe df_report
+2023-07-16 22:35:17,964 - root - INFO - Application done
+2023-07-17 22:09:02,011 - root - INFO - calling spark object
+2023-07-17 22:09:02,011 - Create_spark - INFO - get_spark_object method started
+2023-07-17 22:09:02,011 - Create_spark - INFO - master is local
+2023-07-17 22:09:04,239 - Create_spark - INFO - Spark object created.....
+2023-07-17 22:09:04,239 - root - INFO - Validating spark object........
+2023-07-17 22:09:04,239 - Validate - WARNING - started the get_current_date method...
+2023-07-17 22:09:06,362 - Validate - WARNING - Validations done, going forward....
+2023-07-17 22:09:06,362 - root - INFO - reading file which is of > parquet 
+2023-07-17 22:09:06,362 - Ingest - WARNING - load_files method started....
+2023-07-17 22:09:06,753 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-17 22:09:07,215 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-17 22:09:07,215 - root - INFO - validating the dataframe
+2023-07-17 22:09:07,215 - Ingest - WARNING - here to count the records in the df_City
+2023-07-17 22:09:07,501 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-17 22:09:07,501 - root - INFO - reading file which is of > csv 
+2023-07-17 22:09:07,501 - Ingest - WARNING - load_files method started....
+2023-07-17 22:09:09,998 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-17 22:09:10,119 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-17 22:09:10,119 - root - INFO - validating the dataframe
+2023-07-17 22:09:10,119 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-17 22:09:10,525 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-17 22:09:10,525 - Data_processing - WARNING - data_clean method() started...
+2023-07-17 22:09:10,525 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-17 22:09:10,543 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-17 22:09:10,552 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-17 22:09:10,612 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-17 22:09:12,379 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-17 22:09:12,440 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-17 22:09:12,527 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-17 22:09:12,527 - root - INFO - data_processing execution strted
+2023-07-17 22:09:12,527 - Data_transformation - WARNING - processing in data_report method..
+2023-07-17 22:09:12,528 - Data_transformation - WARNING - calculating total zip counts in DataFrame[city: string, state_id: string, state_name: string, country_name: string, population: int, zips: string]
+2023-07-17 22:09:12,543 - Data_transformation - WARNING - calculating distinct prescribers with total txn cnt
+2023-07-17 22:09:12,565 - Data_transformation - WARNING - Don't report a city if no prescriber assigned to it....let's join df_city_sel and df_presc_sel
+2023-07-17 22:09:12,590 - Data_transformation - WARNING - Data_report successfuly executed...go forward
+2023-07-17 22:09:12,590 - root - INFO - displaying df_report
+2023-07-17 22:09:16,264 - Ingest - WARNING - displaying the dataframe df_report
+2023-07-17 22:09:16,264 - Data_transformation - WARNING - processing in data_report2 method..
+2023-07-17 22:09:16,264 - Data_transformation - WARNING - executing the task ::: consider the prescribers only from 20 to 50 years_of_exp and rank the prescriber based on their tx_cnt for each state
+2023-07-17 22:13:48,540 - root - INFO - calling spark object
+2023-07-17 22:13:48,540 - Create_spark - INFO - get_spark_object method started
+2023-07-17 22:13:48,540 - Create_spark - INFO - master is local
+2023-07-17 22:13:50,388 - Create_spark - INFO - Spark object created.....
+2023-07-17 22:13:50,388 - root - INFO - Validating spark object........
+2023-07-17 22:13:50,389 - Validate - WARNING - started the get_current_date method...
+2023-07-17 22:13:52,262 - Validate - WARNING - Validations done, going forward....
+2023-07-17 22:13:52,262 - root - INFO - reading file which is of > parquet 
+2023-07-17 22:13:52,262 - Ingest - WARNING - load_files method started....
+2023-07-17 22:13:52,598 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-17 22:13:53,040 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-17 22:13:53,040 - root - INFO - validating the dataframe
+2023-07-17 22:13:53,040 - Ingest - WARNING - here to count the records in the df_City
+2023-07-17 22:13:53,312 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-17 22:13:53,313 - root - INFO - reading file which is of > csv 
+2023-07-17 22:13:53,313 - Ingest - WARNING - load_files method started....
+2023-07-17 22:13:55,864 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-17 22:13:55,981 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-17 22:13:55,981 - root - INFO - validating the dataframe
+2023-07-17 22:13:55,981 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-17 22:13:56,390 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-17 22:13:56,390 - Data_processing - WARNING - data_clean method() started...
+2023-07-17 22:13:56,390 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-17 22:13:56,408 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-17 22:13:56,417 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-17 22:13:56,478 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-17 22:13:58,167 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-17 22:13:58,228 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-17 22:13:58,320 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-17 22:13:58,320 - root - INFO - data_processing execution strted
+2023-07-17 22:13:58,320 - Data_transformation - WARNING - processing in data_report method..
+2023-07-17 22:13:58,321 - Data_transformation - WARNING - calculating total zip counts in DataFrame[city: string, state_id: string, state_name: string, country_name: string, population: int, zips: string]
+2023-07-17 22:13:58,337 - Data_transformation - WARNING - calculating distinct prescribers with total txn cnt
+2023-07-17 22:13:58,359 - Data_transformation - WARNING - Don't report a city if no prescriber assigned to it....let's join df_city_sel and df_presc_sel
+2023-07-17 22:13:58,386 - Data_transformation - WARNING - Data_report successfuly executed...go forward
+2023-07-17 22:13:58,386 - root - INFO - displaying df_report
+2023-07-17 22:14:01,883 - Ingest - WARNING - displaying the dataframe df_report
+2023-07-17 22:14:01,883 - Data_transformation - WARNING - processing in data_report2 method..
+2023-07-17 22:14:01,883 - Data_transformation - WARNING - executing the task ::: consider the prescribers only from 20 to 50 years_of_exp and rank the prescriber based on their tx_cnt for each state
+2023-07-17 22:14:47,937 - root - INFO - calling spark object
+2023-07-17 22:14:47,937 - Create_spark - INFO - get_spark_object method started
+2023-07-17 22:14:47,938 - Create_spark - INFO - master is local
+2023-07-17 22:14:49,752 - Create_spark - INFO - Spark object created.....
+2023-07-17 22:14:49,752 - root - INFO - Validating spark object........
+2023-07-17 22:14:49,753 - Validate - WARNING - started the get_current_date method...
+2023-07-17 22:14:51,651 - Validate - WARNING - Validations done, going forward....
+2023-07-17 22:14:51,651 - root - INFO - reading file which is of > parquet 
+2023-07-17 22:14:51,651 - Ingest - WARNING - load_files method started....
+2023-07-17 22:14:51,990 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-17 22:14:52,427 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-17 22:14:52,427 - root - INFO - validating the dataframe
+2023-07-17 22:14:52,427 - Ingest - WARNING - here to count the records in the df_City
+2023-07-17 22:14:52,698 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-17 22:14:52,698 - root - INFO - reading file which is of > csv 
+2023-07-17 22:14:52,698 - Ingest - WARNING - load_files method started....
+2023-07-17 22:14:55,193 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-17 22:14:55,311 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-17 22:14:55,311 - root - INFO - validating the dataframe
+2023-07-17 22:14:55,311 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-17 22:14:55,712 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-17 22:14:55,712 - Data_processing - WARNING - data_clean method() started...
+2023-07-17 22:14:55,712 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-17 22:14:55,729 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-17 22:14:55,739 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-17 22:14:55,800 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-17 22:14:57,332 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-17 22:14:57,391 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-17 22:14:57,478 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-17 22:14:57,478 - root - INFO - data_processing execution strted
+2023-07-17 22:14:57,478 - Data_transformation - WARNING - processing in data_report method..
+2023-07-17 22:14:57,479 - Data_transformation - WARNING - calculating total zip counts in DataFrame[city: string, state_id: string, state_name: string, country_name: string, population: int, zips: string]
+2023-07-17 22:14:57,493 - Data_transformation - WARNING - calculating distinct prescribers with total txn cnt
+2023-07-17 22:14:57,512 - Data_transformation - WARNING - Don't report a city if no prescriber assigned to it....let's join df_city_sel and df_presc_sel
+2023-07-17 22:14:57,535 - Data_transformation - WARNING - Data_report successfuly executed...go forward
+2023-07-17 22:14:57,535 - root - INFO - displaying df_report
+2023-07-17 22:15:01,023 - Ingest - WARNING - displaying the dataframe df_report
+2023-07-17 22:15:01,023 - Data_transformation - WARNING - processing in data_report2 method..
+2023-07-17 22:15:01,023 - Data_transformation - WARNING - executing the task ::: consider the prescribers only from 20 to 50 years_of_exp and rank the prescriber based on their tx_cnt for each state
+2023-07-17 22:15:01,105 - Data_transformation - WARNING - Data_report2 successfuly executed...go forward
+2023-07-17 22:15:01,105 - root - INFO - displaying df_report2
+2023-07-17 22:15:05,481 - Ingest - WARNING - displaying the dataframe df_report2
+2023-07-17 22:15:05,481 - root - INFO - Application done
+2023-07-17 22:16:00,978 - root - INFO - calling spark object
+2023-07-17 22:16:00,978 - Create_spark - INFO - get_spark_object method started
+2023-07-17 22:16:00,978 - Create_spark - INFO - master is local
+2023-07-17 22:16:02,855 - Create_spark - INFO - Spark object created.....
+2023-07-17 22:16:02,855 - root - INFO - Validating spark object........
+2023-07-17 22:16:02,856 - Validate - WARNING - started the get_current_date method...
+2023-07-17 22:16:04,872 - Validate - WARNING - Validations done, going forward....
+2023-07-17 22:16:04,872 - root - INFO - reading file which is of > parquet 
+2023-07-17 22:16:04,872 - Ingest - WARNING - load_files method started....
+2023-07-17 22:16:05,217 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-17 22:16:05,678 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-17 22:16:05,678 - root - INFO - validating the dataframe
+2023-07-17 22:16:05,678 - Ingest - WARNING - here to count the records in the df_City
+2023-07-17 22:16:05,969 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-17 22:16:05,969 - root - INFO - reading file which is of > csv 
+2023-07-17 22:16:05,969 - Ingest - WARNING - load_files method started....
+2023-07-17 22:16:08,495 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-17 22:16:08,617 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-17 22:16:08,617 - root - INFO - validating the dataframe
+2023-07-17 22:16:08,617 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-17 22:16:09,034 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-17 22:16:09,034 - Data_processing - WARNING - data_clean method() started...
+2023-07-17 22:16:09,034 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-17 22:16:09,052 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-17 22:16:09,062 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-17 22:16:09,124 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-17 22:16:10,890 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-17 22:16:10,955 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-17 22:16:11,050 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-17 22:16:11,050 - root - INFO - data_processing execution strted
+2023-07-17 22:16:11,050 - Data_transformation - WARNING - processing in data_report method..
+2023-07-17 22:16:11,051 - Data_transformation - WARNING - calculating total zip counts in DataFrame[city: string, state_id: string, state_name: string, country_name: string, population: int, zips: string]
+2023-07-17 22:16:11,066 - Data_transformation - WARNING - calculating distinct prescribers with total txn cnt
+2023-07-17 22:16:11,088 - Data_transformation - WARNING - Don't report a city if no prescriber assigned to it....let's join df_city_sel and df_presc_sel
+2023-07-17 22:16:11,115 - Data_transformation - WARNING - Data_report successfuly executed...go forward
+2023-07-17 22:16:11,115 - root - INFO - displaying df_report
+2023-07-17 22:16:14,825 - Ingest - WARNING - displaying the dataframe df_report
+2023-07-17 22:16:14,825 - Data_transformation - WARNING - processing in data_report2 method..
+2023-07-17 22:16:14,826 - Data_transformation - WARNING - executing the task ::: consider the prescribers only from 20 to 50 years_of_exp and rank the prescriber based on their tx_cnt for each state
+2023-07-17 22:16:14,906 - Data_transformation - WARNING - Data_report2 successfuly executed...go forward
+2023-07-17 22:16:14,906 - root - INFO - displaying df_report2
+2023-07-17 22:16:19,273 - Ingest - WARNING - displaying the dataframe df_report2
+2023-07-17 22:16:52,484 - root - INFO - calling spark object
+2023-07-17 22:16:52,484 - Create_spark - INFO - get_spark_object method started
+2023-07-17 22:16:52,484 - Create_spark - INFO - master is local
+2023-07-17 22:16:54,354 - Create_spark - INFO - Spark object created.....
+2023-07-17 22:16:54,355 - root - INFO - Validating spark object........
+2023-07-17 22:16:54,355 - Validate - WARNING - started the get_current_date method...
+2023-07-17 22:16:56,300 - Validate - WARNING - Validations done, going forward....
+2023-07-17 22:16:56,301 - root - INFO - reading file which is of > parquet 
+2023-07-17 22:16:56,301 - Ingest - WARNING - load_files method started....
+2023-07-17 22:16:56,656 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-17 22:16:57,095 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-17 22:16:57,095 - root - INFO - validating the dataframe
+2023-07-17 22:16:57,095 - Ingest - WARNING - here to count the records in the df_City
+2023-07-17 22:16:57,364 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-17 22:16:57,365 - root - INFO - reading file which is of > csv 
+2023-07-17 22:16:57,365 - Ingest - WARNING - load_files method started....
+2023-07-17 22:16:59,885 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-17 22:17:00,009 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-17 22:17:00,009 - root - INFO - validating the dataframe
+2023-07-17 22:17:00,009 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-17 22:17:00,430 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-17 22:17:00,430 - Data_processing - WARNING - data_clean method() started...
+2023-07-17 22:17:00,430 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-17 22:17:00,448 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-17 22:17:00,458 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-17 22:17:00,522 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-17 22:17:02,175 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-17 22:17:02,236 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-17 22:17:02,323 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-17 22:17:02,323 - root - INFO - data_processing execution strted
+2023-07-17 22:17:02,323 - Data_transformation - WARNING - processing in data_report method..
+2023-07-17 22:17:02,324 - Data_transformation - WARNING - calculating total zip counts in DataFrame[city: string, state_id: string, state_name: string, country_name: string, population: int, zips: string]
+2023-07-17 22:17:02,338 - Data_transformation - WARNING - calculating distinct prescribers with total txn cnt
+2023-07-17 22:17:02,364 - Data_transformation - WARNING - Don't report a city if no prescriber assigned to it....let's join df_city_sel and df_presc_sel
+2023-07-17 22:17:02,391 - Data_transformation - WARNING - Data_report successfuly executed...go forward
+2023-07-17 22:17:02,391 - root - INFO - displaying df_report
+2023-07-17 22:17:05,926 - Ingest - WARNING - displaying the dataframe df_report
+2023-07-17 22:17:05,926 - Data_transformation - WARNING - processing in data_report2 method..
+2023-07-17 22:17:05,926 - Data_transformation - WARNING - executing the task ::: consider the prescribers only from 20 to 50 years_of_exp and rank the prescriber based on their tx_cnt for each state
+2023-07-17 22:17:06,004 - Data_transformation - WARNING - Data_report2 successfuly executed...go forward
+2023-07-17 22:17:06,004 - root - INFO - displaying df_report2
+2023-07-17 22:17:10,299 - Ingest - WARNING - displaying the dataframe df_report2
+2023-07-17 22:17:10,299 - root - INFO - total amount of time taken {end_time - start_time} seconds
+2023-07-17 22:17:10,299 - root - INFO - Application done
+2023-07-17 22:20:55,398 - root - INFO - calling spark object
+2023-07-17 22:20:55,398 - Create_spark - INFO - get_spark_object method started
+2023-07-17 22:20:55,398 - Create_spark - INFO - master is local
+2023-07-17 22:20:57,288 - Create_spark - INFO - Spark object created.....
+2023-07-17 22:20:57,288 - root - INFO - Validating spark object........
+2023-07-17 22:20:57,289 - Validate - WARNING - started the get_current_date method...
+2023-07-17 22:20:59,280 - Validate - WARNING - Validations done, going forward....
+2023-07-17 22:20:59,280 - root - INFO - reading file which is of > parquet 
+2023-07-17 22:20:59,280 - Ingest - WARNING - load_files method started....
+2023-07-17 22:20:59,634 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-17 22:21:00,083 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-17 22:21:00,083 - root - INFO - validating the dataframe
+2023-07-17 22:21:00,084 - Ingest - WARNING - here to count the records in the df_City
+2023-07-17 22:21:00,365 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-17 22:21:00,366 - root - INFO - reading file which is of > csv 
+2023-07-17 22:21:00,366 - Ingest - WARNING - load_files method started....
+2023-07-17 22:21:02,878 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-17 22:21:02,994 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-17 22:21:02,994 - root - INFO - validating the dataframe
+2023-07-17 22:21:02,994 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-17 22:21:03,397 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-17 22:21:03,397 - Data_processing - WARNING - data_clean method() started...
+2023-07-17 22:21:03,397 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-17 22:21:03,416 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-17 22:21:03,425 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-17 22:21:03,485 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-17 22:21:05,203 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-17 22:21:05,261 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-17 22:21:05,349 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-17 22:21:05,349 - root - INFO - data_processing execution strted
+2023-07-17 22:21:05,349 - Data_transformation - WARNING - processing in data_report method..
+2023-07-17 22:21:05,350 - Data_transformation - WARNING - calculating total zip counts in DataFrame[city: string, state_id: string, state_name: string, country_name: string, population: int, zips: string]
+2023-07-17 22:21:05,363 - Data_transformation - WARNING - calculating distinct prescribers with total txn cnt
+2023-07-17 22:21:05,381 - Data_transformation - WARNING - Don't report a city if no prescriber assigned to it....let's join df_city_sel and df_presc_sel
+2023-07-17 22:21:05,407 - Data_transformation - WARNING - Data_report successfuly executed...go forward
+2023-07-17 22:21:05,408 - root - INFO - displaying df_report
+2023-07-17 22:21:09,124 - Ingest - WARNING - displaying the dataframe df_report
+2023-07-17 22:21:09,125 - Data_transformation - WARNING - processing in data_report2 method..
+2023-07-17 22:21:09,125 - Data_transformation - WARNING - executing the task ::: consider the prescribers only from 20 to 50 years_of_exp and rank the prescriber based on their tx_cnt for each state
+2023-07-17 22:21:09,205 - Data_transformation - WARNING - Data_report2 successfuly executed...go forward
+2023-07-17 22:21:09,205 - root - INFO - displaying df_report2
+2023-07-17 22:21:13,635 - Ingest - WARNING - displaying the dataframe df_report2
+2023-07-17 22:21:13,635 - root - INFO - total amount of time taken: 18.23666090000188 seconds
+2023-07-17 22:21:13,635 - root - INFO - Application done
+2023-07-17 22:39:17,933 - root - INFO - calling spark object
+2023-07-17 22:39:17,933 - Create_spark - INFO - get_spark_object method started
+2023-07-17 22:39:17,933 - Create_spark - INFO - master is local
+2023-07-17 22:39:19,824 - Create_spark - INFO - Spark object created.....
+2023-07-17 22:39:19,824 - root - INFO - Validating spark object........
+2023-07-17 22:39:19,824 - Validate - WARNING - started the get_current_date method...
+2023-07-17 22:39:21,797 - Validate - WARNING - Validations done, going forward....
+2023-07-17 22:39:21,798 - root - INFO - reading file which is of > parquet 
+2023-07-17 22:39:21,798 - Ingest - WARNING - load_files method started....
+2023-07-17 22:39:22,166 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-17 22:39:22,612 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-17 22:39:22,612 - root - INFO - validating the dataframe
+2023-07-17 22:39:22,612 - Ingest - WARNING - here to count the records in the df_City
+2023-07-17 22:39:22,892 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-17 22:39:22,892 - root - INFO - reading file which is of > csv 
+2023-07-17 22:39:22,892 - Ingest - WARNING - load_files method started....
+2023-07-17 22:39:25,438 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-17 22:39:25,568 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-17 22:39:25,568 - root - INFO - validating the dataframe
+2023-07-17 22:39:25,568 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-17 22:39:25,958 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-17 22:39:25,958 - Data_processing - WARNING - data_clean method() started...
+2023-07-17 22:39:25,959 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-17 22:39:25,976 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-17 22:39:25,985 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-17 22:39:26,050 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-17 22:39:27,630 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-17 22:39:27,692 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-17 22:39:27,797 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-17 22:39:27,797 - root - INFO - data_processing execution strted
+2023-07-17 22:39:27,797 - Data_transformation - WARNING - processing in data_report method..
+2023-07-17 22:39:27,798 - Data_transformation - WARNING - calculating total zip counts in DataFrame[city: string, state_id: string, state_name: string, country_name: string, population: int, zips: string]
+2023-07-17 22:39:27,814 - Data_transformation - WARNING - calculating distinct prescribers with total txn cnt
+2023-07-17 22:39:27,835 - Data_transformation - WARNING - Don't report a city if no prescriber assigned to it....let's join df_city_sel and df_presc_sel
+2023-07-17 22:39:27,865 - Data_transformation - WARNING - Data_report successfuly executed...go forward
+2023-07-17 22:39:27,865 - root - INFO - displaying df_report
+2023-07-17 22:39:31,378 - Ingest - WARNING - displaying the dataframe df_report
+2023-07-17 22:39:31,378 - Data_transformation - WARNING - processing in data_report2 method..
+2023-07-17 22:39:31,378 - Data_transformation - WARNING - executing the task ::: consider the prescribers only from 20 to 50 years_of_exp and rank the prescriber based on their tx_cnt for each state
+2023-07-17 22:39:31,451 - Data_transformation - WARNING - Data_report2 successfuly executed...go forward
+2023-07-17 22:39:31,451 - root - INFO - displaying df_report2
+2023-07-17 22:39:35,945 - Ingest - WARNING - displaying the dataframe df_report2
+2023-07-17 22:39:35,945 - root - INFO - total amount of time taken: 18.011458900000434 seconds
+2023-07-17 22:39:35,945 - root - INFO - Application done
+2023-07-17 23:34:47,605 - root - INFO - calling spark object
+2023-07-17 23:34:47,605 - Create_spark - INFO - get_spark_object method started
+2023-07-17 23:34:47,605 - Create_spark - INFO - master is local
+2023-07-17 23:34:49,377 - Create_spark - INFO - Spark object created.....
+2023-07-17 23:34:49,377 - root - INFO - Validating spark object........
+2023-07-17 23:34:49,377 - Validate - WARNING - started the get_current_date method...
+2023-07-17 23:34:51,246 - Validate - WARNING - Validations done, going forward....
+2023-07-17 23:34:51,246 - root - INFO - reading file which is of > parquet 
+2023-07-17 23:34:51,246 - Ingest - WARNING - load_files method started....
+2023-07-17 23:34:51,584 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-17 23:34:52,013 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-17 23:34:52,013 - root - INFO - validating the dataframe
+2023-07-17 23:34:52,013 - Ingest - WARNING - here to count the records in the df_City
+2023-07-17 23:34:52,280 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-17 23:34:52,280 - root - INFO - reading file which is of > csv 
+2023-07-17 23:34:52,280 - Ingest - WARNING - load_files method started....
+2023-07-17 23:34:54,802 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-17 23:34:54,917 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-17 23:34:54,917 - root - INFO - validating the dataframe
+2023-07-17 23:34:54,917 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-17 23:34:55,309 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-17 23:34:55,309 - Data_processing - WARNING - data_clean method() started...
+2023-07-17 23:34:55,309 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-17 23:34:55,327 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-17 23:34:55,336 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-17 23:34:55,399 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-17 23:34:57,025 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-17 23:34:57,085 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-17 23:34:57,172 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-17 23:34:57,172 - root - INFO - data_processing execution strted
+2023-07-17 23:34:57,172 - Data_transformation - WARNING - processing in data_report method..
+2023-07-17 23:34:57,173 - Data_transformation - WARNING - calculating total zip counts in DataFrame[city: string, state_id: string, state_name: string, country_name: string, population: int, zips: string]
+2023-07-17 23:34:57,187 - Data_transformation - WARNING - calculating distinct prescribers with total txn cnt
+2023-07-17 23:34:57,207 - Data_transformation - WARNING - Don't report a city if no prescriber assigned to it....let's join df_city_sel and df_presc_sel
+2023-07-17 23:34:57,232 - Data_transformation - WARNING - Data_report successfuly executed...go forward
+2023-07-17 23:34:57,232 - root - INFO - displaying df_report
+2023-07-17 23:35:00,706 - Ingest - WARNING - displaying the dataframe df_report
+2023-07-17 23:35:00,706 - Data_transformation - WARNING - processing in data_report2 method..
+2023-07-17 23:35:00,706 - Data_transformation - WARNING - executing the task ::: consider the prescribers only from 20 to 50 years_of_exp and rank the prescriber based on their tx_cnt for each state
+2023-07-17 23:35:00,788 - Data_transformation - WARNING - Data_report2 successfuly executed...go forward
+2023-07-17 23:35:00,788 - root - INFO - displaying df_report2
+2023-07-17 23:35:05,066 - Ingest - WARNING - displaying the dataframe df_report2
+2023-07-17 23:35:05,066 - Persist - WARNING - Persist file method started......
+2023-07-17 23:35:08,449 - Persist - WARNING - persist file execution completed successfully
+2023-07-17 23:35:08,449 - Persist - WARNING - Persist file method started......
+2023-07-17 23:35:13,065 - Persist - WARNING - persist file execution completed successfully
+2023-07-17 23:35:13,065 - root - INFO - total amount of time taken: 25.460781799978577 seconds
+2023-07-17 23:35:13,065 - root - INFO - Application done
+2023-07-17 23:37:08,677 - root - INFO - calling spark object
+2023-07-17 23:37:08,677 - Create_spark - INFO - get_spark_object method started
+2023-07-17 23:37:08,677 - Create_spark - INFO - master is local
+2023-07-17 23:37:10,468 - Create_spark - INFO - Spark object created.....
+2023-07-17 23:37:10,469 - root - INFO - Validating spark object........
+2023-07-17 23:37:10,469 - Validate - WARNING - started the get_current_date method...
+2023-07-17 23:37:12,360 - Validate - WARNING - Validations done, going forward....
+2023-07-17 23:37:12,360 - root - INFO - reading file which is of > parquet 
+2023-07-17 23:37:12,360 - Ingest - WARNING - load_files method started....
+2023-07-17 23:37:12,704 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-17 23:37:13,169 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-17 23:37:13,169 - root - INFO - validating the dataframe
+2023-07-17 23:37:13,169 - Ingest - WARNING - here to count the records in the df_City
+2023-07-17 23:37:13,457 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-17 23:37:13,457 - root - INFO - reading file which is of > csv 
+2023-07-17 23:37:13,457 - Ingest - WARNING - load_files method started....
+2023-07-17 23:37:16,014 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-17 23:37:16,130 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-17 23:37:16,130 - root - INFO - validating the dataframe
+2023-07-17 23:37:16,130 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-17 23:37:16,544 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-17 23:37:16,545 - Data_processing - WARNING - data_clean method() started...
+2023-07-17 23:37:16,545 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-17 23:37:16,566 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-17 23:37:16,578 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-17 23:37:16,646 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-17 23:37:18,415 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-17 23:37:18,479 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-17 23:37:18,568 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-17 23:37:18,568 - root - INFO - data_processing execution strted
+2023-07-17 23:37:18,568 - Data_transformation - WARNING - processing in data_report method..
+2023-07-17 23:37:18,569 - Data_transformation - WARNING - calculating total zip counts in DataFrame[city: string, state_id: string, state_name: string, country_name: string, population: int, zips: string]
+2023-07-17 23:37:18,583 - Data_transformation - WARNING - calculating distinct prescribers with total txn cnt
+2023-07-17 23:37:18,604 - Data_transformation - WARNING - Don't report a city if no prescriber assigned to it....let's join df_city_sel and df_presc_sel
+2023-07-17 23:37:18,631 - Data_transformation - WARNING - Data_report successfuly executed...go forward
+2023-07-17 23:37:18,632 - root - INFO - displaying df_report
+2023-07-17 23:37:22,312 - Ingest - WARNING - displaying the dataframe df_report
+2023-07-17 23:37:22,312 - Data_transformation - WARNING - processing in data_report2 method..
+2023-07-17 23:37:22,312 - Data_transformation - WARNING - executing the task ::: consider the prescribers only from 20 to 50 years_of_exp and rank the prescriber based on their tx_cnt for each state
+2023-07-17 23:37:22,388 - Data_transformation - WARNING - Data_report2 successfuly executed...go forward
+2023-07-17 23:37:22,388 - root - INFO - displaying df_report2
+2023-07-17 23:37:26,613 - Ingest - WARNING - displaying the dataframe df_report2
+2023-07-17 23:37:26,614 - Persist - WARNING - Persist file method started......
+2023-07-17 23:37:30,014 - Persist - WARNING - persist file execution completed successfully
+2023-07-17 23:37:30,014 - Persist - WARNING - Persist file method started......
+2023-07-17 23:37:34,594 - Persist - WARNING - persist file execution completed successfully
+2023-07-17 23:37:34,594 - root - INFO - total amount of time taken: 25.91683419997571 seconds
+2023-07-17 23:37:34,594 - root - INFO - Application done
+2023-07-17 23:42:13,782 - root - INFO - calling spark object
+2023-07-17 23:42:13,782 - Create_spark - INFO - get_spark_object method started
+2023-07-17 23:42:13,782 - Create_spark - INFO - master is local
+2023-07-17 23:42:15,612 - Create_spark - INFO - Spark object created.....
+2023-07-17 23:42:15,612 - root - INFO - Validating spark object........
+2023-07-17 23:42:15,612 - Validate - WARNING - started the get_current_date method...
+2023-07-17 23:42:17,495 - Validate - WARNING - Validations done, going forward....
+2023-07-17 23:42:17,495 - root - INFO - reading file which is of > parquet 
+2023-07-17 23:42:17,495 - Ingest - WARNING - load_files method started....
+2023-07-17 23:42:17,833 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-17 23:42:18,265 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-17 23:42:18,266 - root - INFO - validating the dataframe
+2023-07-17 23:42:18,266 - Ingest - WARNING - here to count the records in the df_City
+2023-07-17 23:42:18,538 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-17 23:42:18,538 - root - INFO - reading file which is of > csv 
+2023-07-17 23:42:18,538 - Ingest - WARNING - load_files method started....
+2023-07-17 23:42:21,128 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-17 23:42:21,249 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-17 23:42:21,250 - root - INFO - validating the dataframe
+2023-07-17 23:42:21,250 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-17 23:42:21,629 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-17 23:42:21,630 - Data_processing - WARNING - data_clean method() started...
+2023-07-17 23:42:21,630 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-17 23:42:21,648 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-17 23:42:21,656 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-17 23:42:21,716 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-17 23:42:23,307 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-17 23:42:23,368 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-17 23:42:23,455 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-17 23:42:23,455 - root - INFO - data_processing execution strted
+2023-07-17 23:42:23,455 - Data_transformation - WARNING - processing in data_report method..
+2023-07-17 23:42:23,456 - Data_transformation - WARNING - calculating total zip counts in DataFrame[city: string, state_id: string, state_name: string, country_name: string, population: int, zips: string]
+2023-07-17 23:42:23,471 - Data_transformation - WARNING - calculating distinct prescribers with total txn cnt
+2023-07-17 23:42:23,491 - Data_transformation - WARNING - Don't report a city if no prescriber assigned to it....let's join df_city_sel and df_presc_sel
+2023-07-17 23:42:23,517 - Data_transformation - WARNING - Data_report successfuly executed...go forward
+2023-07-17 23:42:23,517 - root - INFO - displaying df_report
+2023-07-17 23:42:27,063 - Ingest - WARNING - displaying the dataframe df_report
+2023-07-17 23:42:27,063 - Data_transformation - WARNING - processing in data_report2 method..
+2023-07-17 23:42:27,063 - Data_transformation - WARNING - executing the task ::: consider the prescribers only from 20 to 50 years_of_exp and rank the prescriber based on their tx_cnt for each state
+2023-07-17 23:42:27,142 - Data_transformation - WARNING - Data_report2 successfuly executed...go forward
+2023-07-17 23:42:27,142 - root - INFO - displaying df_report2
+2023-07-17 23:42:31,406 - Ingest - WARNING - displaying the dataframe df_report2
+2023-07-17 23:42:31,406 - Persist - WARNING - Persist file method started......
+2023-07-17 23:42:34,406 - Persist - ERROR - can only concatenate str (not "int") to str
+2023-07-17 23:42:34,407 - Persist - WARNING - Persist file method started......
+2023-07-17 23:42:37,874 - Persist - ERROR - can only concatenate str (not "int") to str
+2023-07-17 23:42:37,874 - root - INFO - total amount of time taken: 24.09178229997633 seconds
+2023-07-17 23:42:37,874 - root - INFO - Application done
+2023-07-17 23:43:27,106 - root - INFO - calling spark object
+2023-07-17 23:43:27,106 - Create_spark - INFO - get_spark_object method started
+2023-07-17 23:43:27,106 - Create_spark - INFO - master is local
+2023-07-17 23:43:28,865 - Create_spark - INFO - Spark object created.....
+2023-07-17 23:43:28,865 - root - INFO - Validating spark object........
+2023-07-17 23:43:28,865 - Validate - WARNING - started the get_current_date method...
+2023-07-17 23:43:30,723 - Validate - WARNING - Validations done, going forward....
+2023-07-17 23:43:30,723 - root - INFO - reading file which is of > parquet 
+2023-07-17 23:43:30,723 - Ingest - WARNING - load_files method started....
+2023-07-17 23:43:31,053 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-17 23:43:31,484 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-17 23:43:31,484 - root - INFO - validating the dataframe
+2023-07-17 23:43:31,484 - Ingest - WARNING - here to count the records in the df_City
+2023-07-17 23:43:31,741 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-17 23:43:31,741 - root - INFO - reading file which is of > csv 
+2023-07-17 23:43:31,741 - Ingest - WARNING - load_files method started....
+2023-07-17 23:43:34,191 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-17 23:43:34,310 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-17 23:43:34,310 - root - INFO - validating the dataframe
+2023-07-17 23:43:34,310 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-17 23:43:34,723 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-17 23:43:34,723 - Data_processing - WARNING - data_clean method() started...
+2023-07-17 23:43:34,723 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-17 23:43:34,739 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-17 23:43:34,747 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-17 23:43:34,806 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-17 23:43:36,424 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-17 23:43:36,483 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-17 23:43:36,568 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-17 23:43:36,568 - root - INFO - data_processing execution strted
+2023-07-17 23:43:36,568 - Data_transformation - WARNING - processing in data_report method..
+2023-07-17 23:43:36,569 - Data_transformation - WARNING - calculating total zip counts in DataFrame[city: string, state_id: string, state_name: string, country_name: string, population: int, zips: string]
+2023-07-17 23:43:36,582 - Data_transformation - WARNING - calculating distinct prescribers with total txn cnt
+2023-07-17 23:43:36,600 - Data_transformation - WARNING - Don't report a city if no prescriber assigned to it....let's join df_city_sel and df_presc_sel
+2023-07-17 23:43:36,625 - Data_transformation - WARNING - Data_report successfuly executed...go forward
+2023-07-17 23:43:36,625 - root - INFO - displaying df_report
+2023-07-17 23:43:40,030 - Ingest - WARNING - displaying the dataframe df_report
+2023-07-17 23:43:40,030 - Data_transformation - WARNING - processing in data_report2 method..
+2023-07-17 23:43:40,030 - Data_transformation - WARNING - executing the task ::: consider the prescribers only from 20 to 50 years_of_exp and rank the prescriber based on their tx_cnt for each state
+2023-07-17 23:43:40,100 - Data_transformation - WARNING - Data_report2 successfuly executed...go forward
+2023-07-17 23:43:40,100 - root - INFO - displaying df_report2
+2023-07-17 23:43:44,446 - Ingest - WARNING - displaying the dataframe df_report2
+2023-07-17 23:43:44,446 - Persist - WARNING - Persist file method started......
+2023-07-17 23:43:50,504 - Persist - WARNING - persist file execution completed successfully
+2023-07-17 23:43:50,504 - Persist - WARNING - Persist file method started......
+2023-07-17 23:43:58,672 - Persist - WARNING - persist file execution completed successfully
+2023-07-17 23:43:58,672 - root - INFO - total amount of time taken: 31.56604130001506 seconds
+2023-07-17 23:43:58,672 - root - INFO - Application done
+2023-07-18 20:52:23,375 - root - INFO - calling spark object
+2023-07-18 20:52:23,376 - Create_spark - INFO - get_spark_object method started
+2023-07-18 20:52:23,376 - Create_spark - INFO - master is local
+2023-07-18 20:52:25,617 - Create_spark - INFO - Spark object created.....
+2023-07-18 20:52:25,617 - root - INFO - Validating spark object........
+2023-07-18 20:52:25,617 - Validate - WARNING - started the get_current_date method...
+2023-07-18 20:52:27,741 - Validate - WARNING - Validations done, going forward....
+2023-07-18 20:52:27,741 - root - INFO - reading file which is of > parquet 
+2023-07-18 20:52:27,741 - Ingest - WARNING - load_files method started....
+2023-07-18 20:52:28,142 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-18 20:52:28,605 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-18 20:52:28,605 - root - INFO - validating the dataframe
+2023-07-18 20:52:28,606 - Ingest - WARNING - here to count the records in the df_City
+2023-07-18 20:52:28,890 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-18 20:52:28,890 - root - INFO - reading file which is of > csv 
+2023-07-18 20:52:28,890 - Ingest - WARNING - load_files method started....
+2023-07-18 20:52:31,439 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-18 20:52:31,560 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-18 20:52:31,560 - root - INFO - validating the dataframe
+2023-07-18 20:52:31,560 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-18 20:52:31,959 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-18 20:52:31,959 - Data_processing - WARNING - data_clean method() started...
+2023-07-18 20:52:31,959 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-18 20:52:31,977 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-18 20:52:31,985 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-18 20:52:32,046 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-18 20:52:33,687 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-18 20:52:33,749 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-18 20:52:33,834 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-18 20:52:33,834 - root - INFO - data_processing execution strted
+2023-07-18 20:52:33,835 - Data_transformation - WARNING - processing in data_report method..
+2023-07-18 20:52:33,836 - Data_transformation - WARNING - calculating total zip counts in DataFrame[city: string, state_id: string, state_name: string, country_name: string, population: int, zips: string]
+2023-07-18 20:52:33,852 - Data_transformation - WARNING - calculating distinct prescribers with total txn cnt
+2023-07-18 20:52:33,873 - Data_transformation - WARNING - Don't report a city if no prescriber assigned to it....let's join df_city_sel and df_presc_sel
+2023-07-18 20:52:33,898 - Data_transformation - WARNING - Data_report successfuly executed...go forward
+2023-07-18 20:52:33,898 - root - INFO - displaying df_report
+2023-07-18 20:52:37,542 - Ingest - WARNING - displaying the dataframe df_report
+2023-07-18 20:52:37,542 - Data_transformation - WARNING - processing in data_report2 method..
+2023-07-18 20:52:37,543 - Data_transformation - WARNING - executing the task ::: consider the prescribers only from 20 to 50 years_of_exp and rank the prescriber based on their tx_cnt for each state
+2023-07-18 20:52:37,624 - Data_transformation - WARNING - Data_report2 successfuly executed...go forward
+2023-07-18 20:52:37,624 - root - INFO - displaying df_report2
+2023-07-18 20:52:42,142 - Ingest - WARNING - displaying the dataframe df_report2
+2023-07-18 20:52:42,142 - root - INFO - Persisting df_report and df_report2
+2023-07-18 20:52:42,142 - Persist - WARNING - Persist file method started......
+2023-07-18 20:52:48,403 - Persist - WARNING - persist file execution completed successfully
+2023-07-18 20:52:48,403 - Persist - WARNING - Persist file method started......
+2023-07-18 20:52:56,906 - Persist - WARNING - persist file execution completed successfully
+2023-07-18 20:52:56,906 - root - INFO - Persisting df_report and df_report2 as hive table
+2023-07-18 20:52:56,906 - Persist - WARNING - persisting data in hive table for df_city
+2023-07-18 20:52:56,906 - Persist - WARNING - creating a database
+2023-07-18 20:55:40,427 - root - INFO - calling spark object
+2023-07-18 20:55:40,427 - Create_spark - INFO - get_spark_object method started
+2023-07-18 20:55:40,427 - Create_spark - INFO - master is local
+2023-07-18 20:55:42,249 - Create_spark - INFO - Spark object created.....
+2023-07-18 20:55:42,249 - root - INFO - Validating spark object........
+2023-07-18 20:55:42,249 - Validate - WARNING - started the get_current_date method...
+2023-07-18 20:55:44,116 - Validate - WARNING - Validations done, going forward....
+2023-07-18 20:55:44,116 - root - INFO - reading file which is of > parquet 
+2023-07-18 20:55:44,117 - Ingest - WARNING - load_files method started....
+2023-07-18 20:55:44,447 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-18 20:55:44,887 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-18 20:55:44,887 - root - INFO - validating the dataframe
+2023-07-18 20:55:44,887 - Ingest - WARNING - here to count the records in the df_City
+2023-07-18 20:55:45,165 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-18 20:55:45,165 - root - INFO - reading file which is of > csv 
+2023-07-18 20:55:45,166 - Ingest - WARNING - load_files method started....
+2023-07-18 20:55:47,668 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-18 20:55:47,784 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-18 20:55:47,784 - root - INFO - validating the dataframe
+2023-07-18 20:55:47,784 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-18 20:55:48,182 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-18 20:55:48,182 - Data_processing - WARNING - data_clean method() started...
+2023-07-18 20:55:48,183 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-18 20:55:48,200 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-18 20:55:48,208 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-18 20:55:48,267 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-18 20:55:49,848 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-18 20:55:49,910 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-18 20:55:49,998 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-18 20:55:49,998 - root - INFO - data_processing execution strted
+2023-07-18 20:55:49,998 - Data_transformation - WARNING - processing in data_report method..
+2023-07-18 20:55:49,999 - Data_transformation - WARNING - calculating total zip counts in DataFrame[city: string, state_id: string, state_name: string, country_name: string, population: int, zips: string]
+2023-07-18 20:55:50,014 - Data_transformation - WARNING - calculating distinct prescribers with total txn cnt
+2023-07-18 20:55:50,035 - Data_transformation - WARNING - Don't report a city if no prescriber assigned to it....let's join df_city_sel and df_presc_sel
+2023-07-18 20:55:50,061 - Data_transformation - WARNING - Data_report successfuly executed...go forward
+2023-07-18 20:55:50,061 - root - INFO - displaying df_report
+2023-07-18 20:55:53,531 - Ingest - WARNING - displaying the dataframe df_report
+2023-07-18 20:55:53,531 - Data_transformation - WARNING - processing in data_report2 method..
+2023-07-18 20:55:53,531 - Data_transformation - WARNING - executing the task ::: consider the prescribers only from 20 to 50 years_of_exp and rank the prescriber based on their tx_cnt for each state
+2023-07-18 20:55:53,604 - Data_transformation - WARNING - Data_report2 successfuly executed...go forward
+2023-07-18 20:55:53,604 - root - INFO - displaying df_report2
+2023-07-18 20:55:57,977 - Ingest - WARNING - displaying the dataframe df_report2
+2023-07-18 20:55:57,977 - root - INFO - Persisting df_report and df_report2
+2023-07-18 20:55:57,978 - Persist - WARNING - Persist file method started......
+2023-07-18 20:56:04,192 - Persist - WARNING - persist file execution completed successfully
+2023-07-18 20:56:04,192 - Persist - WARNING - Persist file method started......
+2023-07-18 20:56:12,512 - Persist - WARNING - persist file execution completed successfully
+2023-07-18 20:56:12,512 - root - INFO - Persisting df_report and df_report2 as hive table
+2023-07-18 20:56:12,512 - Persist - WARNING - persisting data in hive table for df_city
+2023-07-18 20:56:12,512 - Persist - WARNING - creating a database
+2023-07-18 20:57:15,325 - root - INFO - calling spark object
+2023-07-18 20:57:15,325 - Create_spark - INFO - get_spark_object method started
+2023-07-18 20:57:15,325 - Create_spark - INFO - master is local
+2023-07-18 20:57:17,163 - Create_spark - INFO - Spark object created.....
+2023-07-18 20:57:17,163 - root - INFO - Validating spark object........
+2023-07-18 20:57:17,163 - Validate - WARNING - started the get_current_date method...
+2023-07-18 20:57:19,031 - Validate - WARNING - Validations done, going forward....
+2023-07-18 20:57:19,031 - root - INFO - reading file which is of > parquet 
+2023-07-18 20:57:19,031 - Ingest - WARNING - load_files method started....
+2023-07-18 20:57:19,375 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-18 20:57:19,811 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-18 20:57:19,812 - root - INFO - validating the dataframe
+2023-07-18 20:57:19,812 - Ingest - WARNING - here to count the records in the df_City
+2023-07-18 20:57:20,099 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-18 20:57:20,099 - root - INFO - reading file which is of > csv 
+2023-07-18 20:57:20,099 - Ingest - WARNING - load_files method started....
+2023-07-18 20:57:22,659 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-18 20:57:22,780 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-18 20:57:22,780 - root - INFO - validating the dataframe
+2023-07-18 20:57:22,780 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-18 20:57:23,165 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-18 20:57:23,165 - Data_processing - WARNING - data_clean method() started...
+2023-07-18 20:57:23,165 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-18 20:57:23,182 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-18 20:57:23,191 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-18 20:57:23,252 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-18 20:57:24,870 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-18 20:57:24,929 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-18 20:57:25,028 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-18 20:57:25,028 - root - INFO - data_processing execution strted
+2023-07-18 20:57:25,028 - Data_transformation - WARNING - processing in data_report method..
+2023-07-18 20:57:25,029 - Data_transformation - WARNING - calculating total zip counts in DataFrame[city: string, state_id: string, state_name: string, country_name: string, population: int, zips: string]
+2023-07-18 20:57:25,046 - Data_transformation - WARNING - calculating distinct prescribers with total txn cnt
+2023-07-18 20:57:25,067 - Data_transformation - WARNING - Don't report a city if no prescriber assigned to it....let's join df_city_sel and df_presc_sel
+2023-07-18 20:57:25,093 - Data_transformation - WARNING - Data_report successfuly executed...go forward
+2023-07-18 20:57:25,093 - root - INFO - displaying df_report
+2023-07-18 20:57:28,757 - Ingest - WARNING - displaying the dataframe df_report
+2023-07-18 20:57:28,757 - Data_transformation - WARNING - processing in data_report2 method..
+2023-07-18 20:57:28,757 - Data_transformation - WARNING - executing the task ::: consider the prescribers only from 20 to 50 years_of_exp and rank the prescriber based on their tx_cnt for each state
+2023-07-18 20:57:28,851 - Data_transformation - WARNING - Data_report2 successfuly executed...go forward
+2023-07-18 20:57:28,851 - root - INFO - displaying df_report2
+2023-07-18 20:57:33,378 - Ingest - WARNING - displaying the dataframe df_report2
+2023-07-18 20:57:33,378 - root - INFO - Persisting df_report and df_report2
+2023-07-18 20:57:33,378 - Persist - WARNING - Persist file method started......
+2023-07-18 20:57:39,883 - Persist - WARNING - persist file execution completed successfully
+2023-07-18 20:57:39,883 - Persist - WARNING - Persist file method started......
+2023-07-18 20:57:48,205 - Persist - WARNING - persist file execution completed successfully
+2023-07-18 20:57:48,205 - root - INFO - Persisting df_report and df_report2 as hive table
+2023-07-18 20:57:48,205 - Persist - WARNING - persisting data in hive table for df_city
+2023-07-18 20:57:48,205 - Persist - WARNING - creating a database
+2023-07-18 20:57:49,970 - Persist - WARNING - writing DataFrame[city: string, state_name: string, country_name: string, population: int, zip_count: int, presc_counts: bigint] into hive table by state_name 
+2023-07-18 20:57:54,755 - Persist - WARNING - Data successfully persited into hive table
+2023-07-18 20:57:54,755 - Persist - WARNING - persisting data in hive table for df_presc
+2023-07-18 20:57:54,755 - Persist - WARNING - creating a database
+2023-07-18 20:57:54,761 - Persist - WARNING - writing DataFrame[presc_id: int, presc_fullname: string, presc_state: string, Country_name: string, years_of_exp: int, tx_cnt: int, total_day_supply: int, total_drug_cost: double, dense_rank: int] into hive table by presc_state 
+2023-07-18 20:58:00,351 - Persist - WARNING - Data successfully persited into hive table
+2023-07-18 20:58:00,351 - root - INFO - total amount of time taken: 45.02633560000686 seconds
+2023-07-18 20:58:00,351 - root - INFO - Application done
+2023-07-18 21:00:04,878 - root - INFO - calling spark object
+2023-07-18 21:00:04,878 - Create_spark - INFO - get_spark_object method started
+2023-07-18 21:00:04,878 - Create_spark - INFO - master is local
+2023-07-18 21:00:06,694 - Create_spark - INFO - Spark object created.....
+2023-07-18 21:00:06,695 - root - INFO - Validating spark object........
+2023-07-18 21:00:06,695 - Validate - WARNING - started the get_current_date method...
+2023-07-18 21:00:08,594 - Validate - WARNING - Validations done, going forward....
+2023-07-18 21:00:08,594 - root - INFO - reading file which is of > parquet 
+2023-07-18 21:00:08,595 - Ingest - WARNING - load_files method started....
+2023-07-18 21:00:08,939 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-18 21:00:09,372 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-18 21:00:09,372 - root - INFO - validating the dataframe
+2023-07-18 21:00:09,372 - Ingest - WARNING - here to count the records in the df_City
+2023-07-18 21:00:09,652 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-18 21:00:09,652 - root - INFO - reading file which is of > csv 
+2023-07-18 21:00:09,652 - Ingest - WARNING - load_files method started....
+2023-07-18 21:00:12,138 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-18 21:00:12,257 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-18 21:00:12,257 - root - INFO - validating the dataframe
+2023-07-18 21:00:12,257 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-18 21:00:12,641 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-18 21:00:12,641 - Data_processing - WARNING - data_clean method() started...
+2023-07-18 21:00:12,641 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-18 21:00:12,660 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-18 21:00:12,669 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-18 21:00:12,735 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-18 21:00:14,404 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-18 21:00:14,473 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-18 21:00:14,569 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-18 21:00:14,569 - root - INFO - data_processing execution strted
+2023-07-18 21:00:14,570 - Data_transformation - WARNING - processing in data_report method..
+2023-07-18 21:00:14,571 - Data_transformation - WARNING - calculating total zip counts in DataFrame[city: string, state_id: string, state_name: string, country_name: string, population: int, zips: string]
+2023-07-18 21:00:14,587 - Data_transformation - WARNING - calculating distinct prescribers with total txn cnt
+2023-07-18 21:00:14,609 - Data_transformation - WARNING - Don't report a city if no prescriber assigned to it....let's join df_city_sel and df_presc_sel
+2023-07-18 21:00:14,635 - Data_transformation - WARNING - Data_report successfuly executed...go forward
+2023-07-18 21:00:14,635 - root - INFO - displaying df_report
+2023-07-18 21:00:18,361 - Ingest - WARNING - displaying the dataframe df_report
+2023-07-18 21:00:18,361 - Data_transformation - WARNING - processing in data_report2 method..
+2023-07-18 21:00:18,361 - Data_transformation - WARNING - executing the task ::: consider the prescribers only from 20 to 50 years_of_exp and rank the prescriber based on their tx_cnt for each state
+2023-07-18 21:00:18,444 - Data_transformation - WARNING - Data_report2 successfuly executed...go forward
+2023-07-18 21:00:18,445 - root - INFO - displaying df_report2
+2023-07-18 21:00:22,882 - Ingest - WARNING - displaying the dataframe df_report2
+2023-07-18 21:00:22,883 - root - INFO - Persisting df_report and df_report2
+2023-07-18 21:00:22,883 - Persist - WARNING - Persist file method started......
+2023-07-18 21:00:29,200 - Persist - WARNING - persist file execution completed successfully
+2023-07-18 21:00:29,200 - Persist - WARNING - Persist file method started......
+2023-07-18 21:00:37,354 - Persist - WARNING - persist file execution completed successfully
+2023-07-18 21:00:37,354 - root - INFO - Persisting df_report and df_report2 as hive table
+2023-07-18 21:00:37,354 - Persist - WARNING - persisting data in hive table for df_city
+2023-07-18 21:00:37,354 - Persist - WARNING - creating a database
+2023-07-18 21:00:39,462 - Persist - WARNING - writing DataFrame[city: string, state_name: string, country_name: string, population: int, zip_count: int, presc_counts: bigint] into hive table by state_name 
+2023-07-18 21:00:44,288 - Persist - WARNING - Data successfully persited into hive table
+2023-07-18 21:00:44,289 - Persist - WARNING - persisting data in hive table for df_presc
+2023-07-18 21:00:44,289 - Persist - WARNING - creating a database
+2023-07-18 21:00:44,294 - Persist - WARNING - writing DataFrame[presc_id: int, presc_fullname: string, presc_state: string, Country_name: string, years_of_exp: int, tx_cnt: int, total_day_supply: int, total_drug_cost: double, dense_rank: int] into hive table by presc_state 
+2023-07-18 21:00:49,912 - Persist - WARNING - Data successfully persited into hive table
+2023-07-18 21:00:49,913 - root - INFO - total amount of time taken: 45.03448109998135 seconds
+2023-07-18 21:00:49,913 - root - INFO - Application done
+2023-07-18 21:02:00,116 - root - INFO - calling spark object
+2023-07-18 21:02:00,117 - Create_spark - INFO - get_spark_object method started
+2023-07-18 21:02:00,117 - Create_spark - INFO - master is local
+2023-07-18 21:02:01,920 - Create_spark - INFO - Spark object created.....
+2023-07-18 21:02:01,920 - root - INFO - Validating spark object........
+2023-07-18 21:02:01,920 - Validate - WARNING - started the get_current_date method...
+2023-07-18 21:02:03,822 - Validate - WARNING - Validations done, going forward....
+2023-07-18 21:02:03,822 - root - INFO - reading file which is of > parquet 
+2023-07-18 21:02:03,822 - Ingest - WARNING - load_files method started....
+2023-07-18 21:02:04,161 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-18 21:02:04,591 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-18 21:02:04,591 - root - INFO - validating the dataframe
+2023-07-18 21:02:04,591 - Ingest - WARNING - here to count the records in the df_City
+2023-07-18 21:02:04,863 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-18 21:02:04,863 - root - INFO - reading file which is of > csv 
+2023-07-18 21:02:04,863 - Ingest - WARNING - load_files method started....
+2023-07-18 21:02:07,381 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-18 21:02:07,501 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-18 21:02:07,501 - root - INFO - validating the dataframe
+2023-07-18 21:02:07,501 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-18 21:02:07,912 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-18 21:02:07,912 - Data_processing - WARNING - data_clean method() started...
+2023-07-18 21:02:07,912 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-18 21:02:07,930 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-18 21:02:07,939 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-18 21:02:08,003 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-18 21:02:09,747 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-18 21:02:09,807 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-18 21:02:09,891 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-18 21:02:09,891 - root - INFO - data_processing execution strted
+2023-07-18 21:02:09,891 - Data_transformation - WARNING - processing in data_report method..
+2023-07-18 21:02:09,892 - Data_transformation - WARNING - calculating total zip counts in DataFrame[city: string, state_id: string, state_name: string, country_name: string, population: int, zips: string]
+2023-07-18 21:02:09,907 - Data_transformation - WARNING - calculating distinct prescribers with total txn cnt
+2023-07-18 21:02:09,926 - Data_transformation - WARNING - Don't report a city if no prescriber assigned to it....let's join df_city_sel and df_presc_sel
+2023-07-18 21:02:09,953 - Data_transformation - WARNING - Data_report successfuly executed...go forward
+2023-07-18 21:02:09,953 - root - INFO - displaying df_report
+2023-07-18 21:02:13,652 - Ingest - WARNING - displaying the dataframe df_report
+2023-07-18 21:02:13,652 - Data_transformation - WARNING - processing in data_report2 method..
+2023-07-18 21:02:13,652 - Data_transformation - WARNING - executing the task ::: consider the prescribers only from 20 to 50 years_of_exp and rank the prescriber based on their tx_cnt for each state
+2023-07-18 21:02:13,740 - Data_transformation - WARNING - Data_report2 successfuly executed...go forward
+2023-07-18 21:02:13,740 - root - INFO - displaying df_report2
+2023-07-18 21:02:18,256 - Ingest - WARNING - displaying the dataframe df_report2
+2023-07-18 21:02:18,256 - root - INFO - Persisting df_report and df_report2
+2023-07-18 21:02:18,256 - Persist - WARNING - Persist file method started......
+2023-07-18 21:02:25,021 - Persist - WARNING - persist file execution completed successfully
+2023-07-18 21:02:25,022 - Persist - WARNING - Persist file method started......
+2023-07-18 21:02:33,548 - Persist - WARNING - persist file execution completed successfully
+2023-07-18 21:02:33,549 - root - INFO - Persisting df_report and df_report2 as hive table
+2023-07-18 21:02:33,549 - Persist - WARNING - persisting data in hive table for df_city
+2023-07-18 21:02:33,549 - Persist - WARNING - creating a database
+2023-07-18 21:02:35,604 - Persist - WARNING - writing DataFrame[city: string, state_name: string, country_name: string, population: int, zip_count: int, presc_counts: bigint] into hive table by state_name 
+2023-07-18 21:02:39,973 - Persist - WARNING - Data successfully persited into hive table
+2023-07-18 21:02:39,973 - Persist - WARNING - persisting data in hive table for df_presc
+2023-07-18 21:02:39,973 - Persist - WARNING - creating a database
+2023-07-18 21:02:39,979 - Persist - WARNING - writing DataFrame[presc_id: int, presc_fullname: string, presc_state: string, Country_name: string, years_of_exp: int, tx_cnt: int, total_day_supply: int, total_drug_cost: double, dense_rank: int] into hive table by presc_state 
+2023-07-18 21:02:45,376 - Persist - WARNING - Data successfully persited into hive table
+2023-07-18 21:02:45,376 - root - INFO - total amount of time taken: 45.26018949999707 seconds
+2023-07-18 21:02:45,376 - root - INFO - Application done
+2023-07-18 21:03:29,336 - root - INFO - calling spark object
+2023-07-18 21:03:29,336 - Create_spark - INFO - get_spark_object method started
+2023-07-18 21:03:29,336 - Create_spark - INFO - master is local
+2023-07-18 21:03:31,246 - Create_spark - INFO - Spark object created.....
+2023-07-18 21:03:31,246 - root - INFO - Validating spark object........
+2023-07-18 21:03:31,246 - Validate - WARNING - started the get_current_date method...
+2023-07-18 21:03:33,218 - Validate - WARNING - Validations done, going forward....
+2023-07-18 21:03:33,218 - root - INFO - reading file which is of > parquet 
+2023-07-18 21:03:33,219 - Ingest - WARNING - load_files method started....
+2023-07-18 21:03:33,587 - Ingest - WARNING - dataframe created successfully which is of parquet
+2023-07-18 21:03:34,030 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-18 21:03:34,030 - root - INFO - validating the dataframe
+2023-07-18 21:03:34,030 - Ingest - WARNING - here to count the records in the df_City
+2023-07-18 21:03:34,318 - Ingest - WARNING - Number of records present in DataFrame[city: string, city_ascii: string, state_id: string, state_name: string, county_fips: int, county_name: string, lat: double, lng: double, population: int, density: int, timezone: string, zips: string] are::28338
+2023-07-18 21:03:34,318 - root - INFO - reading file which is of > csv 
+2023-07-18 21:03:34,318 - Ingest - WARNING - load_files method started....
+2023-07-18 21:03:36,845 - Ingest - WARNING - dataframe created successfully which is of csv
+2023-07-18 21:03:36,971 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-18 21:03:36,971 - root - INFO - validating the dataframe
+2023-07-18 21:03:36,971 - Ingest - WARNING - here to count the records in the df_fact
+2023-07-18 21:03:37,401 - Ingest - WARNING - Number of records present in DataFrame[npi: int, nppes_provider_last_org_name: string, nppes_provider_first_name: string, nppes_provider_city: string, nppes_provider_state: string, specialty_description: string, description_flag: string, drug_name: string, generic_name: string, bene_count: int, total_claim_count: int, total_30_day_fill_count: double, total_day_supply: int, total_drug_cost: double, bene_count_ge65: int, bene_count_ge65_suppress_flag: string, total_claim_count_ge65: int, ge65_suppress_flag: string, total_30_day_fill_count_ge65: double, total_day_supply_ge65: int, total_drug_cost_ge65: double, years_of_exp: string] are::1329329
+2023-07-18 21:03:37,401 - Data_processing - WARNING - data_clean method() started...
+2023-07-18 21:03:37,401 - Data_processing - WARNING - selecting required columns and converting some of columns into upper case...
+2023-07-18 21:03:37,420 - Data_processing - WARNING - working on OLTP dataset and selecting couple of columns and rename....
+2023-07-18 21:03:37,428 - Data_processing - WARNING - Adding a new column to df_presc_sel
+2023-07-18 21:03:37,495 - Data_processing - WARNING - dropping null values and filling null values
+2023-07-18 21:03:39,088 - Data_processing - WARNING - data_clean() method executed done, go forward....
+2023-07-18 21:03:39,156 - Ingest - WARNING - displaying the dataframe df_city
+2023-07-18 21:03:39,249 - Ingest - WARNING - displaying the dataframe df_fact
+2023-07-18 21:03:39,249 - root - INFO - data_processing execution strted
+2023-07-18 21:03:39,249 - Data_transformation - WARNING - processing in data_report method..
+2023-07-18 21:03:39,251 - Data_transformation - WARNING - calculating total zip counts in DataFrame[city: string, state_id: string, state_name: string, country_name: string, population: int, zips: string]
+2023-07-18 21:03:39,266 - Data_transformation - WARNING - calculating distinct prescribers with total txn cnt
+2023-07-18 21:03:39,288 - Data_transformation - WARNING - Don't report a city if no prescriber assigned to it....let's join df_city_sel and df_presc_sel
+2023-07-18 21:03:39,313 - Data_transformation - WARNING - Data_report successfuly executed...go forward
+2023-07-18 21:03:39,314 - root - INFO - displaying df_report
+2023-07-18 21:03:42,858 - Ingest - WARNING - displaying the dataframe df_report
+2023-07-18 21:03:42,858 - Data_transformation - WARNING - processing in data_report2 method..
+2023-07-18 21:03:42,858 - Data_transformation - WARNING - executing the task ::: consider the prescribers only from 20 to 50 years_of_exp and rank the prescriber based on their tx_cnt for each state
+2023-07-18 21:03:42,932 - Data_transformation - WARNING - Data_report2 successfuly executed...go forward
+2023-07-18 21:03:42,933 - root - INFO - displaying df_report2
+2023-07-18 21:03:47,335 - Ingest - WARNING - displaying the dataframe df_report2
+2023-07-18 21:03:47,335 - root - INFO - Persisting df_report and df_report2
+2023-07-18 21:03:47,335 - Persist - WARNING - Persist file method started......
+2023-07-18 21:03:53,880 - Persist - WARNING - persist file execution completed successfully
+2023-07-18 21:03:53,880 - Persist - WARNING - Persist file method started......
+2023-07-18 21:04:02,188 - Persist - WARNING - persist file execution completed successfully
+2023-07-18 21:04:02,188 - root - INFO - Persisting df_report and df_report2 as hive table
+2023-07-18 21:04:02,188 - Persist - WARNING - persisting data in hive table for df_city
+2023-07-18 21:04:02,189 - Persist - WARNING - creating a database
+2023-07-18 21:04:04,131 - Persist - WARNING - writing DataFrame[city: string, state_name: string, country_name: string, population: int, zip_count: int, presc_counts: bigint] into hive table by state_name 
+2023-07-18 21:04:08,756 - Persist - WARNING - Data successfully persited into hive table
+2023-07-18 21:04:08,756 - Persist - WARNING - persisting data in hive table for df_presc
+2023-07-18 21:04:08,756 - Persist - WARNING - creating a database
+2023-07-18 21:04:08,766 - Persist - WARNING - writing DataFrame[presc_id: int, presc_fullname: string, presc_state: string, Country_name: string, years_of_exp: int, tx_cnt: int, total_day_supply: int, total_drug_cost: double, dense_rank: int] into hive table by presc_state 
+2023-07-18 21:04:14,538 - Persist - WARNING - Data successfully persited into hive table
+2023-07-18 21:04:14,538 - root - INFO - total amount of time taken: 45.20251500001177 seconds
+2023-07-18 21:04:14,538 - root - INFO - Application done
